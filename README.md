@@ -9,3 +9,4 @@ The architecture and flow of the sample application will be:
 
 ![Alt text](images/architecture.png "POC Architecture")
 
+## ***The contents of this repository represent my viewpoints and not of my past or current employers, including Amazon Web Services (AWS). All third-party libraries, modules, plugins, and SDKs are the property of their respective owners.***
