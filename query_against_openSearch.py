@@ -45,7 +45,7 @@ def get_embedding(body):
     embedding = response_body.get('embedding')
     return embedding
 
-def answer_query(user_input):
+def opensearch_query(user_input):
     """
     This function takes the user question, creates an embedding of that question,
     and performs a KNN search on your Amazon OpenSearch Index. Using the most similar results it feeds that into the Prompt
