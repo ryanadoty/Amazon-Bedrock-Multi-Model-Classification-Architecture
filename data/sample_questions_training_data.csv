@@ -1,0 +1,1880 @@
+Question,Label
+What is Amazon Web Services (AWS)?,AWS Documentation
+What services does AWS provide?,AWS Documentation
+What are the benefits of using AWS?,AWS Documentation
+How does AWS work?,AWS Documentation
+What is AWS EC2?,AWS Documentation
+What is AWS S3?,AWS Documentation
+What is AWS Lambda?,AWS Documentation
+What is AWS DynamoDB?,AWS Documentation
+What is AWS RDS?,AWS Documentation
+What is AWS EBS?,AWS Documentation
+What is AWS ECS?,AWS Documentation
+What is AWS EKS?,AWS Documentation
+What is AWS Fargate?,AWS Documentation
+What is AWS Elastic Beanstalk?,AWS Documentation
+What is AWS CloudFormation?,AWS Documentation
+What is AWS CloudTrail?,AWS Documentation
+What is AWS CloudWatch?,AWS Documentation
+What is AWS Config?,AWS Documentation
+What is AWS OpsWorks?,AWS Documentation
+What is AWS CodeDeploy?,AWS Documentation
+What is AWS CodePipeline?,AWS Documentation
+What is AWS CodeBuild?,AWS Documentation
+What is AWS CodeCommit?,AWS Documentation
+What is AWS CodeStar?,AWS Documentation
+What is AWS X-Ray?,AWS Documentation
+What is AWS Athena?,AWS Documentation
+What is AWS QuickSight?,AWS Documentation
+What is AWS Glue?,AWS Documentation
+What is AWS EMR?,AWS Documentation
+What is AWS Redshift?,AWS Documentation
+What is AWS Aurora?,AWS Documentation
+What is AWS Quicksight?,AWS Documentation
+What is AWS Snowball?,AWS Documentation
+What is AWS Snowmobile?,AWS Documentation
+What is AWS Snowcone?,AWS Documentation
+What is AWS Storage Gateway?,AWS Documentation
+What is AWS Direct Connect?,AWS Documentation
+What is AWS Transit Gateway?,AWS Documentation
+What is AWS VPC?,AWS Documentation
+What is AWS PrivateLink?,AWS Documentation
+What is AWS Global Accelerator?,AWS Documentation
+What is AWS Route 53?,AWS Documentation
+What is AWS CloudFront?,AWS Documentation
+What is AWS WAF?,AWS Documentation
+What is AWS Shield?,AWS Documentation
+What is AWS Certificate Manager?,AWS Documentation
+What is AWS CloudHSM?,AWS Documentation
+What is AWS Directory Service?,AWS Documentation
+What is AWS Secrets Manager?,AWS Documentation
+What is AWS Key Management Service?,AWS Documentation
+What is AWS Organizations?,AWS Documentation
+What is AWS Control Tower?,AWS Documentation
+What is AWS Resource Access Manager?,AWS Documentation
+What is AWS Service Catalog?,AWS Documentation
+What is AWS License Manager?,AWS Documentation
+What is AWS Well-Architected Tool?,AWS Documentation
+What is AWS Trusted Advisor?,AWS Documentation
+What is AWS Chatbot?,AWS Documentation
+What is AWS IQ?,AWS Documentation
+What is AWS Security Hub?,AWS Documentation
+What is AWS Artifact?,AWS Documentation
+What is AWS AppConfig?,AWS Documentation
+What is AWS CloudShell?,AWS Documentation
+What is AWS Cloud9?,AWS Documentation
+What is AWS CodeGuru?,AWS Documentation
+What is AWS CodeStar connections?,AWS Documentation
+What is AWS Fault Injection Simulator?,AWS Documentation
+What are the different AWS instance types?,AWS Documentation
+How to choose the right AWS instance type?,AWS Documentation
+What are the AWS regions and availability zones?,AWS Documentation
+How to create an AWS account?,AWS Documentation
+How to manage AWS costs and billing?,AWS Documentation
+What is AWS Identity and Access Management (IAM)?,AWS Documentation
+How does AWS security work?,AWS Documentation
+What compliance standards does AWS meet?,AWS Documentation
+What is serverless computing on AWS?,AWS Documentation
+What is containers on AWS?,AWS Documentation
+What is AWS Outposts?,AWS Documentation
+What is AWS Wavelength?,AWS Documentation
+What is Amazon SageMaker?,AWS Documentation
+What is Amazon Rekognition?,AWS Documentation
+What is Amazon Lex?,AWS Documentation
+What is Amazon Polly?,AWS Documentation
+What is Amazon Comprehend?,AWS Documentation
+What is Amazon Transcribe?,AWS Documentation
+What is Amazon Translate?,AWS Documentation
+What is Amazon Sumerian?,AWS Documentation
+What are the main use cases for AWS?,AWS Documentation
+How does AWS integrate with on-premises infrastructure?,AWS Documentation
+What are some key AWS services for developers?,AWS Documentation
+What are some key AWS services for data analytics?,AWS Documentation
+What are some key AWS services for machine learning?,AWS Documentation
+How does AWS support hybrid cloud deployments?,AWS Documentation
+What are best practices for migrating to AWS?,AWS Documentation
+What are some challenges when using AWS?,AWS Documentation
+How does AWS pricing work?,AWS Documentation
+What are reserved instances in AWS?,AWS Documentation
+What is the AWS free tier?,AWS Documentation
+What is the AWS CLI?,AWS Documentation
+What SDKs are available for AWS?,AWS Documentation
+What automation tools can be used with AWS?,AWS Documentation
+What is Amazon EC2?",AWS Documentation
+What is Amazon S3?,AWS Documentation
+What is Amazon RDS?,AWS Documentation
+What is Amazon DynamoDB?,AWS Documentation
+What is Amazon EBS?,AWS Documentation
+What is Amazon EMR?,AWS Documentation
+What is AWS Lambda?,AWS Documentation
+What is AWS Fargate?,AWS Documentation
+What is Amazon API Gateway?,AWS Documentation
+What is AWS CloudFormation?,AWS Documentation
+What is Amazon CloudFront?,AWS Documentation
+What is Amazon CloudWatch?,AWS Documentation
+What is AWS Auto Scaling?,AWS Documentation
+What is Amazon VPC?,AWS Documentation
+What is Amazon Route 53?,AWS Documentation
+What is AWS Direct Connect?,AWS Documentation
+What is Amazon WorkSpaces?,AWS Documentation
+What is AWS Elastic Beanstalk?,AWS Documentation
+What is Amazon Lightsail?,AWS Documentation
+What is AWS Batch?,AWS Documentation
+What is AWS OpsWorks?,AWS Documentation
+What is AWS Snowball?,AWS Documentation
+What is Amazon MQ?,AWS Documentation
+What is Amazon Athena?,AWS Documentation
+What is Amazon QuickSight?,AWS Documentation
+What is AWS Glue?,AWS Documentation
+What is Amazon Kinesis?,AWS Documentation
+What is Amazon SageMaker?,AWS Documentation
+What is Amazon Lex?,AWS Documentation
+What is Amazon Polly?,AWS Documentation
+What is Amazon Rekognition?,AWS Documentation
+What is Amazon Transcribe?,AWS Documentation
+What is Amazon Translate?,AWS Documentation
+What is Amazon Comprehend?,AWS Documentation
+What is Amazon Macie?,AWS Documentation
+What is AWS Security Hub?,AWS Documentation
+What is AWS Shield?,AWS Documentation
+What is AWS WAF?,AWS Documentation
+What is Amazon GuardDuty?,AWS Documentation
+What is AWS Certificate Manager?,AWS Documentation
+What is AWS CloudTrail?,AWS Documentation
+What is Amazon Inspector?,AWS Documentation
+What is AWS Config?,AWS Documentation
+What is AWS Secrets Manager?,AWS Documentation
+What is AWS Systems Manager?,AWS Documentation
+What is AWS Trusted Advisor?,AWS Documentation
+What is Amazon SNS?,AWS Documentation
+What is Amazon SQS?,AWS Documentation
+What is Amazon SES?,AWS Documentation
+What is AWS Step Functions?,AWS Documentation
+What is Amazon Cognito?,AWS Documentation
+What is Amazon Pinpoint?,AWS Documentation
+What is AWS IoT Core?,AWS Documentation
+What is AWS IoT Analytics?,AWS Documentation
+What is AWS IoT Device Management?,AWS Documentation
+What is AWS IoT Device Defender?,AWS Documentation
+What is AWS IoT 1-Click?,AWS Documentation
+What is AWS IoT Events?,AWS Documentation
+What is AWS IoT Greengrass?,AWS Documentation
+What is AWS IoT Sitewise?,AWS Documentation
+What is AWS IoT Things Graph?,AWS Documentation
+What is Amazon Managed Blockchain?,AWS Documentation
+What is Amazon Quantum Ledger Database (QLDB)?,AWS Documentation
+What is Amazon Timestream?,AWS Documentation
+What is Amazon DocumentDB?,AWS Documentation
+What is Amazon Neptune?,AWS Documentation
+What is Amazon ElastiCache?,AWS Documentation
+What is Amazon Redshift?,AWS Documentation
+What is AWS Database Migration Service?,AWS Documentation
+What is AWS Glue DataBrew?,AWS Documentation
+What is AWS Lake Formation?,AWS Documentation
+What is Amazon Elasticsearch Service?,AWS Documentation
+What is Amazon CloudSearch?,AWS Documentation
+What is AWS Data Pipeline?,AWS Documentation
+What is AWS AppSync?,AWS Documentation
+What is AWS Step Functions?,AWS Documentation
+What are AWS Storage Gateway options?,AWS Documentation
+What is Amazon WorkDocs?,AWS Documentation
+What is Amazon WorkMail?,AWS Documentation
+What is Amazon Chime?,AWS Documentation
+What is Amazon Connect?,AWS Documentation
+What is Amazon Pinpoint?,AWS Documentation
+What is Amazon Simple Workflow Service (SWF)?,AWS Documentation
+What is AWS Transfer for SFTP?,AWS Documentation
+What is AWS Snowball Edge?,AWS Documentation
+What is AWS Snowmobile?,AWS Documentation
+What is VM Import/Export?,AWS Documentation
+What is AWS Application Discovery Service?,AWS Documentation
+What is AWS X-Ray?,AWS Documentation
+What is Amazon Sumerian?,AWS Documentation
+What is Amazon AppStream 2.0?,AWS Documentation
+What is Amazon WorkSpaces?,AWS Documentation
+What are AWS Serverless Application Repository options?,AWS Documentation
+What is AWS CodeStar?,AWS Documentation
+What is AWS CodeCommit?,AWS Documentation
+What is AWS CodeBuild?,AWS Documentation
+What is AWS CodeDeploy?,AWS Documentation
+What is AWS CodePipeline?,AWS Documentation
+What is AWS Cloud9?,AWS Documentation
+What is AWS CloudShell?,AWS Documentation
+What are AWS Developer Tools options?,AWS Documentation
+What is Amazon Corretto?,AWS Documentation
+What is AWS Cloud Development Kit (CDK)?,AWS Documentation
+What is AWS CloudFormation?,AWS Documentation
+What is AWS Elastic Beanstalk?,AWS Documentation
+What is AWS OpsWorks?,AWS Documentation
+What is AWS Amplify?,AWS Documentation
+What is AWS Service Catalog?,AWS Documentation
+What is AWS Well-Architected Tool?,AWS Documentation
+What is AWS Trusted Advisor?,AWS Documentation
+What are AWS Management Tools options?,AWS Documentation
+What is Amazon CloudWatch?,AWS Documentation
+What is AWS Auto Scaling?,AWS Documentation
+What is Elastic Load Balancing?,AWS Documentation
+What is AWS CloudTrail?,AWS Documentation
+What is AWS Config?,AWS Documentation
+What is AWS Chatbot?,AWS Documentation
+What is AWS Command Line Interface (CLI)?,AWS Documentation
+What is AWS Console Mobile Application?,AWS Documentation
+What are AWS Billing and Cost Management options?,AWS Documentation
+What are AWS Resource Access Management options?,AWS Documentation
+What is AWS Identity and Access Management (IAM)?,AWS Documentation
+What is Amazon Cognito?,AWS Documentation
+What is AWS Single Sign-On?,AWS Documentation
+What is AWS Directory Service?,AWS Documentation
+What is AWS Organizations?,AWS Documentation
+What are AWS Analytics options?,AWS Documentation
+What is Amazon Athena?,AWS Documentation
+What is Amazon EMR?,AWS Documentation
+What is Amazon CloudSearch?,AWS Documentation
+What is Amazon Elasticsearch Service?,AWS Documentation
+What is Amazon Kinesis?,AWS Documentation
+What is Amazon Managed Streaming for Apache Kafka?,AWS Documentation
+What is Amazon QuickSight?,AWS Documentation
+What is AWS Data Pipeline?,AWS Documentation
+What is AWS Glue?,AWS Documentation
+What is AWS Lake Formation?,AWS Documentation
+What are AWS Machine Learning options?,AWS Documentation
+What is Amazon SageMaker?,AWS Documentation
+What is Amazon Comprehend?,AWS Documentation
+What is Amazon Lex?,AWS Documentation
+What is Amazon Polly?,AWS Documentation
+What is Amazon Rekognition?,AWS Documentation
+What is Amazon Transcribe?,AWS Documentation
+What is Amazon Translate?,AWS Documentation
+What is AWS DeepLens?,AWS Documentation
+What is AWS DeepRacer?,AWS Documentation
+What are AWS Networking & Content Delivery options?,AWS Documentation
+What is Amazon VPC?,AWS Documentation
+What are Amazon VPC peering connections?,AWS Documentation
+What is AWS Direct Connect?,AWS Documentation
+What is Elastic Load Balancing?,AWS Documentation
+What is Amazon Route 53?,AWS Documentation
+What is Amazon CloudFront?,AWS Documentation
+What is AWS PrivateLink?,AWS Documentation
+What is AWS App Mesh?,AWS Documentation
+What is AWS Cloud Map?,AWS Documentation
+What are AWS Media Services options?,AWS Documentation
+What is AWS Elemental MediaConvert?,AWS Documentation
+What is AWS Elemental MediaLive?,AWS Documentation
+What is AWS Elemental MediaPackage?,AWS Documentation
+What is AWS Elemental MediaStore?,AWS Documentation
+What is AWS Elemental MediaTailor?,AWS Documentation
+What are AWS Migration options?,AWS Documentation
+What is AWS Migration Hub?,AWS Documentation
+What is AWS Application Discovery Service?,AWS Documentation
+What is AWS Database Migration Service?,AWS Documentation
+What is AWS Server Migration Service?,AWS Documentation
+What is AWS Snowball?,AWS Documentation
+What is AWS Snowball Edge?,AWS Documentation
+What is AWS Snowmobile?,AWS Documentation
+What is VM Import/Export?,AWS Documentation
+What are AWS Security,AWS Documentation
+Identity & Compliance options?,AWS Documentation
+What is AWS Identity and Access Management (IAM)?,AWS Documentation
+What is Amazon Cognito?,AWS Documentation
+What is Amazon GuardDuty?,AWS Documentation
+What is Amazon Inspector?,AWS Documentation
+What is AWS Certificate Manager?,AWS Documentation
+What is AWS CloudHSM?,AWS Documentation
+What is AWS Directory Service?,AWS Documentation
+What is AWS Firewall Manager?,AWS Documentation
+What is AWS Key Management Service?,AWS Documentation
+What is AWS Organizations?,AWS Documentation
+What is AWS Secrets Manager?,AWS Documentation
+What is AWS Security Hub?,AWS Documentation
+What is AWS Shield?,AWS Documentation
+What is AWS Single Sign-On?,AWS Documentation
+What is AWS WAF?,AWS Documentation
+What is AWS Artifact?,AWS Documentation
+What is AWS Audit Manager?,AWS Documentation
+What is AWS Config?,AWS Documentation
+What is AWS Control Tower?,AWS Documentation
+What is AWS License Manager?,AWS Documentation
+What is AWS Macie?,AWS Documentation
+What is AWS Systems Manager Incident Manager?,AWS Documentation
+What are AWS Storage options?,AWS Documentation
+What is Amazon S3?,AWS Documentation
+What is Amazon EBS?,AWS Documentation
+What is Amazon EC2 Instance Store?,AWS Documentation
+What is Amazon EFS?,AWS Documentation
+What is Amazon FSx?,AWS Documentation
+What is Amazon S3 Glacier?,AWS Documentation
+What is AWS Backup?,AWS Documentation
+What is AWS Snowball Edge Storage Optimized?,AWS Documentation
+What is AWS Storage Gateway?,AWS Documentation
+What are AWS Database options?,AWS Documentation
+What is Amazon Aurora?,AWS Documentation
+What is Amazon DynamoDB?,AWS Documentation
+What is Amazon ElastiCache?,AWS Documentation
+What is Amazon Neptune?,AWS Documentation
+What is Amazon Quantum Ledger Database (QLDB)?,AWS Documentation
+What is Amazon RDS?,AWS Documentation
+What is Amazon Redshift?,AWS Documentation
+What is Amazon Timestream?,AWS Documentation
+What is AWS Database Migration Service?,AWS Documentation
+What are AWS Analytics options?,AWS Documentation
+What is Amazon Athena?,AWS Documentation
+What is Amazon CloudSearch?,AWS Documentation
+What is Amazon Elasticsearch Service?,AWS Documentation
+What is Amazon EMR?,AWS Documentation
+What is Amazon Kinesis?,AWS Documentation
+What is Amazon Managed Streaming for Apache Kafka?,AWS Documentation
+What is Amazon QuickSight?,AWS Documentation
+What is AWS Data Pipeline?,AWS Documentation
+What is AWS Glue?,AWS Documentation
+What is AWS Lake Formation?,AWS Documentation
+What are AWS Management & Governance options?,AWS Documentation
+What is AWS Auto Scaling?,AWS Documentation
+What is AWS Chatbot?,AWS Documentation
+What is AWS CloudFormation?,AWS Documentation
+What is AWS CloudTrail?,AWS Documentation
+What is Amazon CloudWatch?,AWS Documentation
+What is AWS Command Line Interface?,AWS Documentation
+What is AWS Config?,AWS Documentation
+What is AWS Control Tower?,AWS Documentation
+What is AWS License Manager?,AWS Documentation
+What is AWS Managed Services?,AWS Documentation
+What is AWS Organizations?,AWS Documentation
+What is AWS Personal Health Dashboard?,AWS Documentation
+What is AWS Service Catalog?,AWS Documentation
+What is AWS Systems Manager?,AWS Documentation
+What is AWS Trusted Advisor?,AWS Documentation
+What are AWS Media Services options?,AWS Documentation
+What is AWS Elemental MediaConvert?,AWS Documentation
+What is AWS Elemental MediaLive?,AWS Documentation
+What is AWS Elemental MediaPackage?,AWS Documentation
+What is AWS Elemental MediaStore?,AWS Documentation
+What is AWS Elemental MediaTailor?,AWS Documentation
+What are AWS Migration & Transfer options?,AWS Documentation
+What is AWS Application Discovery Service?,AWS Documentation
+What is AWS Database Migration Service?,AWS Documentation
+What is AWS Migration Hub?,AWS Documentation
+What is AWS Server Migration Service?,AWS Documentation
+What is AWS Snowball?,AWS Documentation
+What is AWS Snowball Edge?,AWS Documentation
+What is AWS Snowmobile?,AWS Documentation
+What is VM Import/Export?,AWS Documentation
+What are AWS Networking & Content Delivery options?,AWS Documentation
+What is Amazon VPC?,AWS Documentation
+What are Amazon VPC peering connections?,AWS Documentation
+What is AWS Direct Connect?,AWS Documentation
+What is Amazon CloudFront?,AWS Documentation
+What is Elastic Load Balancing?,AWS Documentation
+What is Amazon Route 53?,AWS Documentation
+What is AWS PrivateLink?,AWS Documentation
+What is AWS App Mesh?,AWS Documentation
+What is AWS Cloud Map?,AWS Documentation
+What are AWS Robotic Process Automation options?,AWS Documentation
+What is AWS RoboMaker?,AWS Documentation
+What are AWS Satellite options?,AWS Documentation
+What is AWS Ground Station?,AWS Documentation
+What are AWS Blockchain options?,AWS Documentation
+What is Amazon Managed Blockchain?,AWS Documentation
+What is Amazon Quantum Ledger Database (QLDB)?,AWS Documentation
+What are AWS Game Tech options?,AWS Documentation
+What is Amazon GameLift?,AWS Documentation
+What is Amazon Lumberyard?,AWS Documentation
+What are AWS Machine Learning options?,AWS Documentation
+What is Amazon SageMaker?,AWS Documentation
+What is Amazon Comprehend?,AWS Documentation
+What is Amazon Lex?,AWS Documentation
+What is Amazon Polly?,AWS Documentation
+What is Amazon Rekognition?,AWS Documentation
+What is Amazon Transcribe?,AWS Documentation
+What is Amazon Translate?,AWS Documentation
+What is AWS DeepLens?,AWS Documentation
+What is AWS DeepRacer?,AWS Documentation
+What are AWS Management & Governance options?,AWS Documentation
+What is AWS Auto Scaling?,AWS Documentation
+What is AWS Chatbot?,AWS Documentation
+What is AWS CloudFormation?,AWS Documentation
+What is AWS CloudTrail?,AWS Documentation
+What is Amazon CloudWatch?,AWS Documentation
+What is AWS Command Line Interface?,AWS Documentation
+What is AWS Config?,AWS Documentation
+What is AWS Control Tower?,AWS Documentation
+What is AWS License Manager?,AWS Documentation
+What is AWS Managed Services?,AWS Documentation
+What is AWS Organizations?,AWS Documentation
+What is AWS Personal Health Dashboard?,AWS Documentation
+What is AWS Service Catalog?,AWS Documentation
+What is AWS Systems Manager?,AWS Documentation
+What is AWS Trusted Advisor?,AWS Documentation
+What are AWS Media Services options?,AWS Documentation
+What is AWS Elemental MediaConvert?,AWS Documentation
+What is AWS Elemental MediaLive?,AWS Documentation
+What is AWS Elemental MediaPackage?,AWS Documentation
+What is AWS Elemental MediaStore?,AWS Documentation
+What is AWS Elemental MediaTailor?,AWS Documentation
+What are AWS Migration & Transfer options?,AWS Documentation
+What is AWS Application Discovery Service?,AWS Documentation
+What is AWS Database Migration Service?,AWS Documentation
+What is AWS Migration Hub?,AWS Documentation
+What is AWS Server Migration Service?,AWS Documentation
+What is AWS Snowball?,AWS Documentation
+What is AWS Snowball Edge?,AWS Documentation
+What is AWS Snowmobile?,AWS Documentation
+What is VM Import/Export?,AWS Documentation
+What are AWS Networking & Content Delivery options?,AWS Documentation
+What is Amazon VPC?,AWS Documentation
+What are Amazon VPC peering connections?,AWS Documentation
+What is AWS Direct Connect?,AWS Documentation
+What is Amazon CloudFront?,AWS Documentation
+What is Elastic Load Balancing?,AWS Documentation
+What is Amazon Route 53?,AWS Documentation
+What is AWS PrivateLink?,AWS Documentation
+What is AWS App Mesh?,AWS Documentation
+What is AWS Cloud Map?,AWS Documentation
+What are AWS Robotic Process Automation options?,AWS Documentation
+What is AWS RoboMaker?,AWS Documentation
+What are AWS Satellite options?,AWS Documentation
+What is AWS Ground Station?,AWS Documentation
+What are AWS Blockchain options?,AWS Documentation
+What is Amazon Managed Blockchain?,AWS Documentation
+What is Amazon Quantum Ledger Database (QLDB)?,AWS Documentation
+What are AWS Game Tech options?,AWS Documentation
+What is Amazon GameLift?,AWS Documentation
+What is Amazon Lumberyard?,AWS Documentation
+What are AWS Machine Learning options?,AWS Documentation
+What is Amazon SageMaker?,AWS Documentation
+What is Amazon Comprehend?,AWS Documentation
+What is Amazon Lex?,AWS Documentation
+What is Amazon Polly?,AWS Documentation
+What is Amazon Rekognition?,AWS Documentation
+What is Amazon Transcribe?,AWS Documentation
+What is Amazon Translate?,AWS Documentation
+What is AWS DeepLens?,AWS Documentation
+What is AWS DeepRacer?,AWS Documentation
+Who is Harry Potter's best friend?,Harry Potter
+What is the name of Harry's owl?,Harry Potter
+What house is Harry Potter sorted into?,Harry Potter
+Who gave Harry his lightning bolt scar?,Harry Potter
+What sport does Harry play at Hogwarts?,Harry Potter
+What is the name of the wizard prison?,Harry Potter
+Who is the headmaster of Hogwarts for most of the series?,Harry Potter
+What magical item allows Harry to become invisible?,Harry Potter
+Who teaches potions at Hogwarts?,Harry Potter
+What magical creatures pull the carriages that bring students to Hogwarts?,Harry Potter
+What is the name of Hagrid's giant three-headed dog?,Harry Potter
+Who teaches Defense Against the Dark Arts in Harry's first year?,Harry Potter
+What is the name of Draco Malfoy's father?,Harry Potter
+Who teaches Transfiguration at Hogwarts?,Harry Potter
+What creature lives in the Chamber of Secrets?,Harry Potter
+What magical plant strangles anyone who comes near it?,Harry Potter
+What is the name of the Weasley family home?,Harry Potter
+Who is the author of Fantastic Beasts and Where to Find Them?,Harry Potter
+What is the name of the wizarding sport with four balls?,Harry Potter
+What is the incantation for the levitation charm?,Harry Potter
+What potion allows the drinker to transform into another person?,Harry Potter
+What is the name of the wizarding school in France?,Harry Potter
+What is the name of the wizarding school in Bulgaria?,Harry Potter
+What is the name of the main wizarding newspaper?,Harry Potter
+What is the name of Ron's pet rat?,Harry Potter
+Who kills Cedric Diggory?,Harry Potter
+What spell does Harry use to defeat the basilisk?,Harry Potter
+Who teaches Divination at Hogwarts?,Harry Potter
+What is the name of the wizarding candy that allows you to float?,Harry Potter
+What is the name of the wizarding bank run by goblins?,Harry Potter
+What is the name of Voldemort's snake?,Harry Potter
+What is the name of Harry's cousin?,Harry Potter
+What is the name of the wizarding hospital?,Harry Potter
+What is the name of the wizarding radio program?,Harry Potter
+What is the name of the wizarding governing body?,Harry Potter
+What is the name of the wizarding prison in North America?,Harry Potter
+What is the name of the house elf who tries to save Harry's life?,Harry Potter
+What is the name of the village near Hogwarts?,Harry Potter
+What is the name of the potion that forces the drinker to tell the truth?,Harry Potter
+What is the name of the secret organization founded by Dumbledore?,Harry Potter
+What is the name of the wizarding school in Africa?,Harry Potter
+What is the name of the wizarding school in Asia?,Harry Potter
+What is the name of the wizarding school in South America?,Harry Potter
+What is the name of the wizarding school in North America?,Harry Potter
+What is the name of the wizard sport played on broomsticks?,Harry Potter
+What is the name of the device that reverses time so Hermione can take extra classes?,Harry Potter
+What is the name of the magical map that shows everyone at Hogwarts?,Harry Potter
+What is the name of the potion that makes the drinker unlucky?,Harry Potter
+What is the name of the room that becomes whatever you need it to be?,Harry Potter
+What is the name of the spell that conjures a Patronus?,Harry Potter
+What is the name of the spell that disarms your opponent?,Harry Potter
+What is the name of the spell that makes objects fly?,Harry Potter
+What is the name of the spell that opens locks?,Harry Potter
+What is the name of the spell that conjures water?,Harry Potter
+What is the name of the spell that mends objects?,Harry Potter
+What is the name of the spell that creates light from your wand?,Harry Potter
+What is the name of the spell that reveals hidden things?,Harry Potter
+What is the name of the spell that makes objects levitate?,Harry Potter
+What is the name of the spell that heals minor injuries?,Harry Potter
+What is the name of the spell that conjures fire?,Harry Potter
+What is the name of the spell that erases memories?,Harry Potter
+What is the name of the spell that stops or slows moving objects?,Harry Potter
+What is the name of the spell that conjures ropes?,Harry Potter
+What is the name of the spell that turns objects into animals?,Harry Potter
+What is the name of the spell that conjures a protective shield?,Harry Potter
+What is the name of the spell that makes people dance uncontrollably?,Harry Potter
+What is the name of the spell that causes intense pain?,Harry Potter
+What is the name of the spell that kills people instantly?,Harry Potter
+What is the name of the spell that tortures people by controlling them like a puppet?,Harry Potter
+What is the name of the spell that causes cuts on the opponent's body?,Harry Potter
+What is the name of the spell that conjures a snake?,Harry Potter
+What is the name of the spell that conjures a flock of birds to attack?,Harry Potter
+What is the name of the spell that makes things grow rapidly?,Harry Potter
+What is the name of the spell that conjures wind?,Harry Potter
+What is the name of the spell that conjures sleep?,Harry Potter
+What is the name of the spell that conjures silence?,Harry Potter
+What is the name of the spell that conjures fireworks?,Harry Potter
+What is the name of the spell that conjures water bubbles?,Harry Potter
+What is the name of the spell that conjures flowers?,Harry Potter
+What is the name of the spell that conjures butterflies?,Harry Potter
+What is the name of the spell that conjures birds?,Harry Potter
+What is the name of the spell that conjures rainbows?,Harry Potter
+Who is Harry Potter's best friend?",Harry Potter
+What is the name of Harry's owl?,Harry Potter
+What house is Harry Potter sorted into?,Harry Potter
+Who gave Harry his lightning bolt scar?,Harry Potter
+What sport does Harry play at Hogwarts?,Harry Potter
+What is the name of the wizard prison?,Harry Potter
+Who is the headmaster of Hogwarts for most of the series?,Harry Potter
+What magical item allows Harry to become invisible?,Harry Potter
+Who teaches Potions at Hogwarts?,Harry Potter
+What magical creatures pull the carriages that bring students to Hogwarts?,Harry Potter
+What is the name of Hagrid's giant three-headed dog?,Harry Potter
+What is the name of the wizard bank run by goblins?,Harry Potter
+Who teaches Transfiguration at Hogwarts?,Harry Potter
+What is the name of Voldemort's snake?,Harry Potter
+What is the name of the evil wizard who killed Harry's parents?,Harry Potter
+What is the name of Ron's pet rat?,Harry Potter
+Who teaches Defense Against the Dark Arts in Harry's first year?,Harry Potter
+What is the name of Harry's cousin?,Harry Potter
+What is the name of the wizard sport played on broomsticks?,Harry Potter
+What is the name of the Hogwarts poltergeist?,Harry Potter
+What is the name of Hagrid's baby dragon?,Harry Potter
+What is the name of the enchanted car the Weasleys own?,Harry Potter
+What is the name of the wizarding school in France?,Harry Potter
+What is the name of the wizarding school in Bulgaria?,Harry Potter
+What is the name of the wizarding school in America?,Harry Potter
+What is the name of the wizarding newspaper?,Harry Potter
+What is the name of the Weasley family home?,Harry Potter
+What is the name of the secret organization founded by Dumbledore?,Harry Potter
+What is the name of Dumbledore's phoenix?,Harry Potter
+What is the name of the magical tent Harry,Harry Potter
+Ron and Hermione use while on the run?,Harry Potter
+What is the name of the love potion Romilda Vane tries to give to Harry?,Harry Potter
+What is the name of Neville Longbottom's pet toad?,Harry Potter
+What is the name of the Yule Ball dance partner Harry regrets asking?,Harry Potter
+What is the name of the wizard rock band at Bill and Fleur's wedding?,Harry Potter
+What is the name of Harry's godfather?,Harry Potter
+What is the name of the Death Eater who killed Sirius Black?,Harry Potter
+What is the name of the Hogwarts house-elf who tries to save Harry's life?,Harry Potter
+What is the name of the centaur who lives in the Forbidden Forest?,Harry Potter
+What is the name of the Hogwarts ghost who teaches History of Magic?,Harry Potter
+What is the name of the magical room that becomes whatever you need it to be?,Harry Potter
+What is the name of the enchanted mirror that shows your heart's desire?,Harry Potter
+What is the name of the village near Hogwarts?,Harry Potter
+What is the name of the Hogwarts founder associated with Slytherin house?,Harry Potter
+What is the name of the Hogwarts founder associated with Gryffindor house?,Harry Potter
+What is the name of the Hogwarts founder associated with Ravenclaw house?,Harry Potter
+What is the name of the Hogwarts founder associated with Hufflepuff house?,Harry Potter
+What is the name of Harry's mother?,Harry Potter
+What is the name of Harry's father?,Harry Potter
+What is the name of Ron's younger sister?,Harry Potter
+What is the name of Hermione's cat?,Harry Potter
+What is the name of Hagrid's giant half-brother?,Harry Potter
+What is the name of Neville's grandmother?,Harry Potter
+What is the name of the Hogwarts caretaker and his cat?,Harry Potter
+What is the name of the Hogwarts herbology professor?,Harry Potter
+What is the name of the Hogwarts potions master before Snape?,Harry Potter
+What is the name of the wizard family the Weasleys dislike?,Harry Potter
+What is the name of the Hogwarts divination professor?,Harry Potter
+What is the name of the wizard who falsely imprisoned Sirius in Azkaban?,Harry Potter
+What is the name of the Hogwarts charms professor?,Harry Potter
+What is the name of the Hogwarts astronomy professor?,Harry Potter
+What is the name of the Hogwarts arithmancy professor?,Harry Potter
+What is the name of the Hogwarts study of ancient runes professor?,Harry Potter
+What is the name of Hagrid's giant spider friend?,Harry Potter
+What is the name of the Hogwarts gamekeeper before Hagrid?,Harry Potter
+What is the name of the Hogwarts muggle studies professor?,Harry Potter
+What is the name of the Hogwarts care of magical creatures professor before Hagrid?,Harry Potter
+What is the name of the Hogwarts flying instructor?,Harry Potter
+What is the name of the Hogwarts librarian?,Harry Potter
+What is the name of the Hogwarts nurse?,Harry Potter
+What is the name of the Hogwarts sorting hat?,Harry Potter
+What is the name of the Hogwarts headmaster before Dumbledore?,Harry Potter
+What is the name of the wizard prison guard?,Harry Potter
+What is the name of the Hogwarts potions master after Snape?,Harry Potter
+What is the name of the Death Eater who impersonated Mad-Eye Moody?,Harry Potter
+What is the name of the Hogwarts defense against the dark arts professor in Harry's second year?,Harry Potter
+What is the name of the centaur professor at Hogwarts?,Harry Potter
+What is the name of the Hogwarts muggle studies professor after Quirrell leaves?,Harry Potter
+What is the name of Ginny Weasley's first boyfriend?,Harry Potter
+What is the name of the Hufflepuff seeker in Harry's first Quidditch match?,Harry Potter
+What is the name of the Ravenclaw seeker in Harry's first Quidditch match?,Harry Potter
+What is the name of the Slytherin seeker in Harry's first Quidditch match?,Harry Potter
+What is the name of the Hogwarts groundskeeper before Hagrid?,Harry Potter
+What is the name of the wizard who heads the Department for the Regulation and Control of Magical Creatures?,Harry Potter
+What is the name of the Hogwarts defense against the dark arts professor in Harry's fifth year?,Harry Potter
+Who is Harry Potter's godfather?,Harry Potter
+What is the name of Harry's owl?,Harry Potter
+What is the name of the wizard prison?,Harry Potter
+What is the name of the Hogwarts headmaster during most of the books?,Harry Potter
+What is the name of Harry's mother?,Harry Potter
+What is the name of Harry's father?,Harry Potter
+What is the name of Ron Weasley's pet rat?,Harry Potter
+What is the name of Hermione's cat?,Harry Potter
+What is the name of Hagrid's dog?,Harry Potter
+What is the name of Neville Longbottom's toad?,Harry Potter
+What is the name of the Hogwarts ghost that lives in Gryffindor tower?,Harry Potter
+What is the name of the poltergeist at Hogwarts?,Harry Potter
+What is the name of Draco Malfoy's mother?,Harry Potter
+What is the name of the Hogwarts house elf that tries to save Harry's life?,Harry Potter
+What is the name of Ron's younger sister?,Harry Potter
+What is the name of the Hogwarts groundskeeper?,Harry Potter
+What is the name of the wizard sport played at Hogwarts on broomsticks?,Harry Potter
+What is the name of the Hogwarts sorting hat?,Harry Potter
+What is the name of the Hogwarts headmaster before Dumbledore?,Harry Potter
+What is the name of Voldemort's snake?,Harry Potter
+What is the name of Harry's cousin?,Harry Potter
+What is the name of the Hogwarts potions master?,Harry Potter
+What is the name of Hagrid's giant half-brother?,Harry Potter
+What is the name of the Hogwarts herbology professor?,Harry Potter
+What is the name of the Hogwarts divination professor?,Harry Potter
+What is the name of the centaur who lives in the Forbidden Forest?,Harry Potter
+What is the name of the Hogwarts caretaker?,Harry Potter
+What is the name of Ron's pet owl (after Scabbers)?,Harry Potter
+What is the name of the Hogwarts charms professor?,Harry Potter
+What is the name of the Hogwarts transfiguration professor?,Harry Potter
+What is the name of the Hogwarts flying instructor?,Harry Potter
+What is the name of the Hogwarts astronomy professor?,Harry Potter
+What is the name of the Hogwarts history of magic professor?,Harry Potter
+What is the name of the Hogwarts defense against the dark arts professor in Harry's first year?,Harry Potter
+What is the name of the Hogwarts defense against the dark arts professor in Harry's second year?,Harry Potter
+What is the name of the Hogwarts defense against the dark arts professor in Harry's third year?,Harry Potter
+What is the name of the Hogwarts defense against the dark arts professor in Harry's fourth year?,Harry Potter
+What is the name of the Hogwarts defense against the dark arts professor in Harry's fifth year?,Harry Potter
+What is the name of the Hogwarts defense against the dark arts professor in Harry's sixth year?,Harry Potter
+What is the name of the Hogwarts defense against the dark arts professor in Harry's seventh year?,Harry Potter
+What is the name of Ron's mother?,Harry Potter
+What is the name of Ron's father?,Harry Potter
+What are the names of Ron's twin brothers?,Harry Potter
+What is the name of Hermione's cat?,Harry Potter
+What is the name of Neville's toad?,Harry Potter
+What is the name of Draco's two cronies?,Harry Potter
+What is the name of Hagrid's giant half-brother?,Harry Potter
+What is the name of the Hogwarts poltergeist?,Harry Potter
+What is the name of the wizarding sport played on broomsticks?,Harry Potter
+What is the name of the Hogwarts house elf that tries to save Harry's life?,Harry Potter
+What is the name of Voldemort's snake?,Harry Potter
+What is the name of the Hogwarts sorting hat?,Harry Potter
+What is the name of the centaur who lives in the Forbidden Forest?,Harry Potter
+What is the name of the Hogwarts caretaker and his cat?,Harry Potter
+What is the name of Ron's pet rat?,Harry Potter
+What is the name of Harry's owl?,Harry Potter
+What is the name of Hermione's cat?,Harry Potter
+What is the name of Neville's toad?,Harry Potter
+What is the name of Hagrid's dog?,Harry Potter
+What are the names of the four Hogwarts houses?,Harry Potter
+What are the three Unforgivable Curses?,Harry Potter
+Who killed Cedric Diggory?,Harry Potter
+Who killed Sirius Black?,Harry Potter
+Who killed Dumbledore?,Harry Potter
+Who killed Snape?,Harry Potter
+Who are the Marauders?,Harry Potter
+What is Voldemort's real name?,Harry Potter
+Where is the entrance to Diagon Alley located?,Harry Potter
+Where is the Hogwarts kitchen located?,Harry Potter
+What creature lives in the Chamber of Secrets?,Harry Potter
+What creature pulls the Hogwarts carriages?,Harry Potter
+What is the name of the Hogwarts school song?,Harry Potter
+What is the name of the Weasley family home?,Harry Potter
+What is the name of the wizarding sport played on broomsticks?,Harry Potter
+Where do witches and wizards get their wands?,Harry Potter
+What is the name of the Hogwarts headmaster before Dumbledore?,Harry Potter
+What is the name of Hagrid's giant half-brother?,Harry Potter
+What is the name of Neville Longbottom's toad?,Harry Potter
+What is the name of the Hogwarts poltergeist?,Harry Potter
+What is the name of Draco Malfoy's mother?,Harry Potter
+What is the name of the wizard prison?,Harry Potter
+What is the name of Ron's younger sister?,Harry Potter
+What is the name of Hermione's cat?,Harry Potter
+What is the name of Harry's godfather?,Harry Potter
+What is the name of the Hogwarts potions master?,Harry Potter
+What is the name of the Hogwarts herbology professor?,Harry Potter
+What is the name of the Hogwarts divination professor?,Harry Potter
+What is the name of the centaur who lives in the Forbidden Forest?,Harry Potter
+What is the name of the Hogwarts caretaker?,Harry Potter
+What is the name of Ron's pet owl (after Scabbers)?,Harry Potter
+What is the name of the Hogwarts charms professor?,Harry Potter
+What is the name of the Hogwarts transfiguration professor?,Harry Potter
+What is the name of the Hogwarts flying instructor?,Harry Potter
+What is the name of the Hogwarts astronomy professor?,Harry Potter
+What is the name of the Hogwarts history of magic professor?,Harry Potter
+What is the name of the Hogwarts defense against the dark arts professor in Harry's first year?,Harry Potter
+What is the name of the Hogwarts defense against the dark arts professor in Harry's second year?,Harry Potter
+What is the name of the Hogwarts defense against the dark arts professor in Harry's third year?,Harry Potter
+What is the name of the Hogwarts defense against the dark arts professor in Harry's fourth year?,Harry Potter
+What is the name of the Hogwarts defense against the dark arts professor in Harry's fifth year?,Harry Potter
+What is the name of the Hogwarts defense against the dark arts professor in Harry's sixth year?,Harry Potter
+What is the name of the Hogwarts defense against the dark arts professor in Harry's seventh year?,Harry Potter
+What is the name of Ron's mother?,Harry Potter
+What is the name of Ron's father?,Harry Potter
+What are the names of Ron's twin brothers?,Harry Potter
+What is Harry's patronus?,Harry Potter
+What is Hermione's patronus?,Harry Potter
+What is Ron's patronus?,Harry Potter
+What is Dumbledore's patronus?,Harry Potter
+What is Snape's patronus?,Harry Potter
+What is McGonagall's patronus?,Harry Potter
+What is Umbridge's patronus?,Harry Potter
+What is Voldemort's patronus?,Harry Potter
+What is Draco's patronus?,Harry Potter
+What is Luna's patronus?,Harry Potter
+What is Ginny's patronus?,Harry Potter
+What is Neville's patronus?,Harry Potter
+What is Hagrid's patronus?,Harry Potter
+What is Sirius's patronus?,Harry Potter
+What is Lupin's patronus?,Harry Potter
+What is Mr. Weasley's patronus?,Harry Potter
+What is Mrs. Weasley's patronus?,Harry Potter
+What is Fred's patronus?,Harry Potter
+What is George's patronus?,Harry Potter
+What is Harry's wand core?,Harry Potter
+What is Hermione's wand core?,Harry Potter
+What is Ron's wand core?,Harry Potter
+What is Dumbledore's wand core?,Harry Potter
+What is Voldemort's wand core?,Harry Potter
+What is Draco's wand core?,Harry Potter
+What is Snape's wand core?,Harry Potter
+What is Hagrid's wand core?,Harry Potter
+What is Sirius's wand core?,Harry Potter
+What is Lupin's wand core?,Harry Potter
+What is Mr. Weasley's wand core?,Harry Potter
+What is Mrs. Weasley's wand core?,Harry Potter
+What is Fred's wand core?,Harry Potter
+What is George's wand core?,Harry Potter
+What is Ginny's wand core?,Harry Potter
+What is Neville's wand core?,Harry Potter
+What is Luna's wand core?,Harry Potter
+What is Harry's boggart?,Harry Potter
+What is Hermione's boggart?,Harry Potter
+What is Ron's boggart?,Harry Potter
+What is Neville's boggart?,Harry Potter
+What is Mrs. Weasley's boggart?,Harry Potter
+What is Lupin's boggart?,Harry Potter
+What is Parvati's boggart?,Harry Potter
+What is Snape's boggart?,Harry Potter
+What is Dumbledore's boggart?,Harry Potter
+What is McGonagall's boggart?,Harry Potter
+What is Draco's boggart?,Harry Potter
+What is Ginny's boggart?,Harry Potter
+What is Luna's boggart?,Harry Potter
+What is Sirius's boggart?,Harry Potter
+What is Hagrid's boggart?,Harry Potter
+What is Mr. Weasley's boggart?,Harry Potter
+What is Fred's boggart?,Harry Potter
+What is George's boggart?,Harry Potter
+What house was Tonks in?,Harry Potter
+What house was Lupin in?,Harry Potter
+What house was Sirius in?,Harry Potter
+What house was Pettigrew in?,Harry Potter
+What house was Snape in?,Harry Potter
+What house was Slughorn in?,Harry Potter
+What house was McGonagall in?,Harry Potter
+What house was Flitwick in?,Harry Potter
+What house was Sprout in?,Harry Potter
+What house was Lockhart in?,Harry Potter
+What house was Quirrell in?,Harry Potter
+What house was Moody/Crouch in?,Harry Potter
+What house was Umbridge in?,Harry Potter
+What house was Trelawney in?,Harry Potter
+What house was Firenze in?,Harry Potter
+What house was Filch in?,Harry Potter
+What house was Hagrid in?,Harry Potter
+What house was Dumbledore in?,Harry Potter
+What house was Voldemort in?,Harry Potter
+What house was Bellatrix in?,Harry Potter
+What house was Narcissa Malfoy in?,Harry Potter
+What house was Lucius Malfoy in?,Harry Potter
+What house was Draco Malfoy in?,Harry Potter
+What house was Crabbe in?,Harry Potter
+What house was Goyle in?,Harry Potter
+What house was Pansy Parkinson in?,Harry Potter
+What house was Cho Chang in?,Harry Potter
+What house was Cedric Diggory in?,Harry Potter
+What house was Fleur Delacour in?,Harry Potter
+What house was Viktor Krum in?,Harry Potter
+What house was Ginny Weasley in?,Harry Potter
+What house was the Grey Lady ghost in?,Harry Potter
+What house was the Bloody Baron ghost in?,Harry Potter
+What house was Nearly Headless Nick ghost in?,Harry Potter
+What house was Moaning Myrtle ghost in?,Harry Potter
+What house was Helena Ravenclaw ghost in?,Harry Potter
+What house was the Fat Friar ghost in?,Harry Potter
+What spell disarms your opponent?,Harry Potter
+What spell conjures a Patronus?,Harry Potter
+What spell opens locks?,Harry Potter
+What spell mends broken objects?,Harry Potter
+What spell immobilizes someone briefly?,Harry Potter
+What spell levitates objects?,Harry Potter
+What spell reveals hidden things?,Harry Potter
+What spell silences people?,Harry Potter
+What spell heals minor injuries?,Harry Potter
+Who is Harry Potter's godfather?,Harry Potter
+What is the name of Harry's owl?,Harry Potter
+What is the name of the wizard prison?,Harry Potter
+What is the name of the Hogwarts headmaster during most of the books?,Harry Potter
+What is the name of Harry's mother?,Harry Potter
+What is the name of Harry's father?,Harry Potter
+What is the name of Ron Weasley's pet rat?,Harry Potter
+What is the name of Hermione's cat?,Harry Potter
+What is the name of Hagrid's dog?,Harry Potter
+What is the name of Neville Longbottom's toad?,Harry Potter
+What is the name of the Hogwarts ghost that lives in Gryffindor tower?,Harry Potter
+What is the name of the poltergeist at Hogwarts?,Harry Potter
+What is the name of Draco Malfoy's mother?,Harry Potter
+What is the name of the Hogwarts house elf that tries to save Harry's life?,Harry Potter
+What is the name of Ron's younger sister?,Harry Potter
+What is the name of the Hogwarts groundskeeper?,Harry Potter
+What is the name of the wizard sport played at Hogwarts on broomsticks?,Harry Potter
+What is the name of the Hogwarts sorting hat?,Harry Potter
+What is the name of the wizard bank run by goblins?,Harry Potter
+What is the name of the hidden London street where wizards shop?,Harry Potter
+What are the three Unforgivable Curses?,Harry Potter
+What is the name of Voldemort's snake?,Harry Potter
+What is the name of Harry's cousin?,Harry Potter
+What is the name of Harry's aunt?,Harry Potter
+What is the name of Harry's uncle?,Harry Potter
+What is the name of Ron's older brother who works with dragons?,Harry Potter
+What is the name of the Hogwarts potions master?,Harry Potter
+What is the name of the centaur who lives in the Forbidden Forest?,Harry Potter
+What is the name of the half-giant wizard who rescues Harry from the Dursleys?,Harry Potter
+What is the name of the wizard candy that allows you to float?,Harry Potter
+What is the name of the device that allows wizards to travel through fireplaces?,Harry Potter
+What is the name of the magical map that shows everyone's location at Hogwarts?,Harry Potter
+What is the name of the room at Hogwarts that transforms into whatever you need?,Harry Potter
+What is the name of the wizarding school located in France?,Harry Potter
+What is the name of the wizarding school located in Bulgaria?,Harry Potter
+What is the name of the wizarding school located in Brazil?,Harry Potter
+What is the name of the wizarding governing body?,Harry Potter
+What is the name of the wizard prison located in the North Sea?,Harry Potter
+What is the name of the potion that forces someone to tell the truth?,Harry Potter
+What is the name of the potion that transforms you into another person?,Harry Potter
+What is the name of the cloak that makes the wearer invisible?,Harry Potter
+What is the name of the resurrection stone?,Harry Potter
+What is the name of the elder wand?,Harry Potter
+What is the name of the wizard sport that uses flying balls called bludgers?,Harry Potter
+What is the name of the wizarding newspaper?,Harry Potter
+What is the name of the Hogwarts house known for being brave?,Harry Potter
+What is the name of the Hogwarts house known for being intelligent?,Harry Potter
+What is the name of the Hogwarts house known for being cunning?,Harry Potter
+What is the name of the Hogwarts house known for being loyal?,Harry Potter
+What is the name of Harry's strongest magical skill?,Harry Potter
+What is the name of the spell that disarms opponents?,Harry Potter
+What is the name of the spell that makes objects fly?,Harry Potter
+What is the name of the spell that opens locks?,Harry Potter
+What is the name of the spell that repairs objects?,Harry Potter
+What is the name of the spell that conjures water?,Harry Potter
+What is the name of the spell that levitates objects?,Harry Potter
+What is the name of the spell that reveals hidden things?,Harry Potter
+What is the name of the spell that stuns opponents?,Harry Potter
+What is the name of the spell that produces a patronus?,Harry Potter
+What is the name of the spell that transforms animals into water goblets?,Harry Potter
+What is the name of the forbidden forest outside Hogwarts?,Harry Potter
+What is the name of the hidden platform where students board the Hogwarts Express?,Harry Potter
+What is the name of the magical creature that pulls the Hogwarts carriages?,Harry Potter
+What is the name of the magical hat that sorts first year students into Hogwarts houses?,Harry Potter
+What is the name of the magical creature that lives in the Chamber of Secrets?,Harry Potter
+What is the name of the magical plant with tentacles that strangles anything in its reach?,Harry Potter
+What is the name of the village near Hogwarts?,Harry Potter
+What is the name of the sweet shop in Hogsmeade village?,Harry Potter
+What is the name of the joke shop opened by Fred and George Weasley?,Harry Potter
+What is the name of the wizard sport league?,Harry Potter
+What is the name of the school feast held at the start of each school year?,Harry Potter
+What is the name of the portrait guarding the entrance to Gryffindor tower?,Harry Potter
+What is the name of Hagrid's giant half-brother?,Harry Potter
+What is the name of Harry's least favorite professor?,Harry Potter
+What is the name of Ron's pet owl?,Harry Potter
+What is the name of the Hogwarts house ghost known as the Grey Lady?,Harry Potter
+What is the name of the Hogwarts house ghost known as the Bloody Baron?,Harry Potter
+What is the name of the Hogwarts house ghost known as the Fat Friar?,Harry Potter
+What is the name of the Hogwarts house ghost known as Nearly Headless Nick?,Harry Potter
+What is the name of Neville's grandmother?,Harry Potter
+What is the name of the Hogwarts librarian?,Harry Potter
+What is the name of the Hogwarts nurse?,Harry Potter
+What is the name of the Hogwarts caretaker?,Harry Potter
+What is the name of the Hogwarts divination professor?,Harry Potter
+What is the name of the wizarding exam students take at age 17?,Harry Potter
+What is the name of the advanced potions book once belonging to the Half-Blood Prince?,Harry Potter
+What is the name of the spell that kills people instantly?,Harry Potter
+What is the name of the room where things are hidden at Hogwarts?,Harry Potter
+What is the name of the house elf who tries to prevent Harry from returning to Hogwarts in Chamber of Secrets?,Harry Potter
+What is the name of the wizard prison located inside the Ministry of Magic?,Harry Potter
+What is the name of the prophecy orb containing the prophecy about Harry and Voldemort?,Harry Potter
+What is the name of the room at the Ministry of Magic filled with time turners?,Harry Potter
+What is the name of the centaur professor who teaches divination at Hogwarts for a year?,Harry Potter
+What is the name of the wizard rock band at Harry's Yule Ball?,Harry Potter
+What is the name of the dance competition held during the Triwizard Tournament?,Harry Potter
+What is the title of the painting by Pablo Picasso painted in 1907?",MOMA SQL Database
+How many artworks are in the collection by Henri Matisse?,MOMA SQL Database
+What year was the artwork Broadway Boogie Woogie by Piet Mondrian created?,MOMA SQL Database
+What is the medium used for the artwork Campbell's Soup Cans by Andy Warhol?,MOMA SQL Database
+How many artworks in the collection were made in the 1980s?,MOMA SQL Database
+What nationality was the artist Frida Kahlo?,MOMA SQL Database
+What was the first year an artwork entered the collection?,MOMA SQL Database
+How many artworks were acquired in 2015?,MOMA SQL Database
+What is the earliest year an artwork was created?,MOMA SQL Database
+How many artworks have the word 'blue' in the title?,MOMA SQL Database
+What are the top 5 most common nationalities for artists in the collection?,MOMA SQL Database
+Which artist has the most artworks in the collection?,MOMA SQL Database
+How many sculptures are in the collection?,MOMA SQL Database
+What percent of the collection was created after 1950?,MOMA SQL Database
+How many artworks have the color red prominent?,MOMA SQL Database
+What is the most common medium used by artists in the collection?,MOMA SQL Database
+Which decade has the most artworks represented?,MOMA SQL Database
+What is the title of the earliest artwork in the collection?,MOMA SQL Database
+How many artworks were gifts to the museum?,MOMA SQL Database
+What was the first painting to enter the collection?,MOMA SQL Database
+How many artworks were made in New York?,MOMA SQL Database
+Which artist made the artwork Broadway Boogie Woogie?,MOMA SQL Database
+What year did the museum first open?,MOMA SQL Database
+What is the most common subject depicted in the collection?,MOMA SQL Database
+How many artworks were made in Paris?,MOMA SQL Database
+What was the last painting acquired by the museum?,MOMA SQL Database
+How many photographs are in the collection?,MOMA SQL Database
+What percent of artworks are by female artists?,MOMA SQL Database
+Which artist has the earliest birth year?,MOMA SQL Database
+How many artworks were purchased by the museum?,MOMA SQL Database
+What country produced the most artworks in the collection?,MOMA SQL Database
+What decade has the fewest artworks represented?,MOMA SQL Database
+Which artwork has been in the collection the longest?,MOMA SQL Database
+What is the most common color used in the collection?,MOMA SQL Database
+How many paintings are impressionist style?,MOMA SQL Database
+What was the first sculpture acquired by the museum?,MOMA SQL Database
+What is the most common place of creation for artworks?,MOMA SQL Database
+How many artworks were created in the 1950s?,MOMA SQL Database
+Which artist has the latest birth year?,MOMA SQL Database
+What percent of the collection is paintings?,MOMA SQL Database
+How many artworks were gifts from private collectors?,MOMA SQL Database
+What was the last sculpture acquired by the museum?,MOMA SQL Database
+How many artworks have animals as the subject?,MOMA SQL Database
+How many artworks were created in France?,MOMA SQL Database
+What was the first photograph to enter the collection?,MOMA SQL Database
+What is the most common artistic style represented?,MOMA SQL Database
+Which artist has the most self-portraits in the collection?,MOMA SQL Database
+How many artworks were purchased from galleries?,MOMA SQL Database
+What was the first year the museum acquired an artwork?,MOMA SQL Database
+How many artworks have flowers as the subject?,MOMA SQL Database
+How many artworks were created in Spain?,MOMA SQL Database
+What was the most recent year the museum did not acquire any new artworks?,MOMA SQL Database
+How many landscapes are in the collection?,MOMA SQL Database
+What percent of the collection is works on paper?,MOMA SQL Database
+How many portraits are in the collection?,MOMA SQL Database
+What was the first digital artwork acquired by the museum?,MOMA SQL Database
+How many abstract artworks are in the collection?,MOMA SQL Database
+How many artworks feature buildings or architecture?,MOMA SQL Database
+What percent of the collection was created before 1900?,MOMA SQL Database
+How many still life artworks are in the collection?,MOMA SQL Database
+Which decade has the most photographs represented?,MOMA SQL Database
+What was the last sculpture to enter the collection?,MOMA SQL Database
+How many artworks are self-portraits of the artist?,MOMA SQL Database
+What was the first digital artwork acquired by the museum?,MOMA SQL Database
+How many artworks have religious themes?,MOMA SQL Database
+How many artworks were created in Germany?,MOMA SQL Database
+How many artworks feature nature scenes?,MOMA SQL Database
+What was the first painting by Pablo Picasso to enter the collection?,MOMA SQL Database
+How many artworks were gifts from artists?,MOMA SQL Database
+What percent of the collection is three-dimensional works?,MOMA SQL Database
+How many artworks feature the human figure?,MOMA SQL Database
+How many artworks were created in Japan?,MOMA SQL Database
+How many artworks are installations?,MOMA SQL Database
+What was the most recent acquisition by the museum?,MOMA SQL Database
+What is the title of the artwork by artist Pablo Picasso?",MOMA SQL Database
+What year was the artwork Les Demoiselles d'Avignon created?,MOMA SQL Database
+What is the medium used for the artwork Campbell's Soup Cans?,MOMA SQL Database
+Who created the artwork The Starry Night?,MOMA SQL Database
+What nationality is the artist Henri Matisse?,MOMA SQL Database
+Which artist created the artwork Broadway Boogie Woogie?,MOMA SQL Database
+What was the first artwork to enter MoMA's collection?,MOMA SQL Database
+How many artworks are in the collection by Claude Monet?,MOMA SQL Database
+When was the artwork Dance (I) created?,MOMA SQL Database
+What is the date of the earliest artwork in the collection?,MOMA SQL Database
+How many sculptures are in the collection?,MOMA SQL Database
+What is the most common nationality for artists in the collection?,MOMA SQL Database
+Which artist has the most artworks in the collection?,MOMA SQL Database
+How many artworks were acquired in 1920?,MOMA SQL Database
+What was the first painting to enter the collection?,MOMA SQL Database
+Who painted the artwork Where Do We Come From? What Are We? Where Are We Going?,MOMA SQL Database
+What year was the artwork Full Fathom Five created?,MOMA SQL Database
+Which artist created the artwork Man with a Guitar?,MOMA SQL Database
+What is the medium for the artwork Campbell's Soup Cans?,MOMA SQL Database
+How many artworks were created in the 1950s?,MOMA SQL Database
+What was the last painting to enter the collection before 1950?,MOMA SQL Database
+Which artist has the most photographs in the collection?,MOMA SQL Database
+What is the title of the earliest photograph acquired by MoMA?,MOMA SQL Database
+When was the artwork Dance (I) created?,MOMA SQL Database
+How many artworks by Pablo Picasso are paintings?,MOMA SQL Database
+What is the latest year that an artwork entered the collection?,MOMA SQL Database
+How many artworks were gifts?,MOMA SQL Database
+What was the first sculpture to enter the collection?,MOMA SQL Database
+Which artist created the most artworks in the Pop Art style?,MOMA SQL Database
+How many artworks were purchased by MoMA?,MOMA SQL Database
+What nationality is the artist with the most artworks?,MOMA SQL Database
+Which decade has the most artworks created?,MOMA SQL Database
+What was the first digital artwork acquired by MoMA?,MOMA SQL Database
+How many artworks were created in France?,MOMA SQL Database
+Who created the artwork Broadway Boogie Woogie?,MOMA SQL Database
+What percentage of artworks are by female artists?,MOMA SQL Database
+Which artist has the most photographs in the collection?,MOMA SQL Database
+What was the most expensive artwork purchased by MoMA?,MOMA SQL Database
+How many artworks were created in the 1980s?,MOMA SQL Database
+What was the first painting by Pablo Picasso to enter the collection?,MOMA SQL Database
+How many artworks were created in Italy?,MOMA SQL Database
+What was the first collage acquired by MoMA?,MOMA SQL Database
+Which artist created the artwork Campbell's Soup Cans?,MOMA SQL Database
+What is the title of the latest artwork to enter the collection?,MOMA SQL Database
+How many artworks were gifts from Rockefeller?,MOMA SQL Database
+What was the first painting to enter the collection?,MOMA SQL Database
+Which decade has the fewest artworks?,MOMA SQL Database
+What is the most common medium used by artists in the collection?,MOMA SQL Database
+How many artworks were created in Spain?,MOMA SQL Database
+Which artist created the artwork Les Demoiselles d'Avignon?,MOMA SQL Database
+What was the first digital artwork acquired?,MOMA SQL Database
+How many artworks were created in the 1960s?,MOMA SQL Database
+What percentage of artworks were created in the 20th century?,MOMA SQL Database
+How many photographs were acquired in the 1950s?,MOMA SQL Database
+What was the first collage acquired by the museum?,MOMA SQL Database
+Which artist has created the most sculptures in the collection?,MOMA SQL Database
+What was the first sculpture acquired by MoMA?,MOMA SQL Database
+How many artworks were purchased in the 1930s?,MOMA SQL Database
+Which artist created the artwork The Starry Night?,MOMA SQL Database
+What is the title of the earliest photograph acquired?,MOMA SQL Database
+How many artworks were gifts from donors?,MOMA SQL Database
+What was the most expensive painting purchased?,MOMA SQL Database
+Which decade has the most photographs?,MOMA SQL Database
+What percentage of the collection is paintings?,MOMA SQL Database
+How many artworks were created in Germany?,MOMA SQL Database
+Who painted the earliest artwork acquired by MoMA?,MOMA SQL Database
+Which artist created the most collages in the collection?,MOMA SQL Database
+What was the first digital artwork to enter the collection?,MOMA SQL Database
+How many artworks were created in the 1910s?,MOMA SQL Database
+What is the most common medium for sculptures in the collection?,MOMA SQL Database
+What is the title of the artwork by artist Pablo Picasso?",MOMA SQL Database
+What year was the artwork Les Demoiselles d'Avignon created?,MOMA SQL Database
+What is the medium used for the artwork Campbell's Soup Cans?,MOMA SQL Database
+Who created the artwork The Starry Night?,MOMA SQL Database
+What nationality is the artist Henri Matisse?,MOMA SQL Database
+Which artist created the artwork Broadway Boogie Woogie?,MOMA SQL Database
+What was the first artwork to enter MoMA's collection?,MOMA SQL Database
+How many artworks are in the collection by Claude Monet?,MOMA SQL Database
+When was the artwork Dance (I) created?,MOMA SQL Database
+What is the date the artwork The Dream was acquired?,MOMA SQL Database
+What is the height in cm of the artwork The Sleeping Gypsy?,MOMA SQL Database
+What materials were used to create the artwork Untitled?,MOMA SQL Database
+Which artist has the most artworks in the collection?,MOMA SQL Database
+How many sculptures are in the collection?,MOMA SQL Database
+What country is artist Frida Kahlo from?,MOMA SQL Database
+What was the first year an artwork entered the collection?,MOMA SQL Database
+How many artworks feature the color blue?,MOMA SQL Database
+What is the most common nationality for artists in the collection?,MOMA SQL Database
+How many artworks are photographs?,MOMA SQL Database
+What is the earliest year of acquisition for an artwork?,MOMA SQL Database
+Which artist has the earliest year of birth?,MOMA SQL Database
+How many artworks were created in the 1920s?,MOMA SQL Database
+What are the dimensions in cm of the artwork Campbell's Soup Cans?,MOMA SQL Database
+Which artwork has been on view at MoMA for the longest time?,MOMA SQL Database
+What is the most common medium used by artists in the collection?,MOMA SQL Database
+Which decade has the most artworks created?,MOMA SQL Database
+What is the average size in cm of all artworks?,MOMA SQL Database
+How many artworks were gifts or donations?,MOMA SQL Database
+What percentage of artworks are by female artists?,MOMA SQL Database
+Which artwork took the longest to create?,MOMA SQL Database
+What is the most common subject matter depicted?,MOMA SQL Database
+How many artworks were purchased by MoMA?,MOMA SQL Database
+What was MoMA's first painting acquisition?,MOMA SQL Database
+Which country has the most artist representations?,MOMA SQL Database
+What is the most common place of creation for artworks?,MOMA SQL Database
+How many artworks are self-portraits?,MOMA SQL Database
+What was the first sculpture acquired by MoMA?,MOMA SQL Database
+Which artist died at the youngest age?,MOMA SQL Database
+What is the earliest birth year for an artist in the collection?,MOMA SQL Database
+How many artworks have a known creation date?,MOMA SQL Database
+What is the most popular color used in artworks?,MOMA SQL Database
+How many artworks were created in New York?,MOMA SQL Database
+What was the first photograph acquired by MoMA?,MOMA SQL Database
+Which decade has the fewest artworks created?,MOMA SQL Database
+What is the most common place of origin for artists?,MOMA SQL Database
+How many artworks feature animals?,MOMA SQL Database
+Which artist was born closest to MoMA's opening in 1929?,MOMA SQL Database
+What is the average size in inches of all artworks?,MOMA SQL Database
+How many artworks feature landscapes?,MOMA SQL Database
+What percentage of artworks were acquired through purchases?,MOMA SQL Database
+Which country has the fewest artist representations?,MOMA SQL Database
+What was the last painting acquired in the initial collection?,MOMA SQL Database
+How many artworks feature people as subjects?,MOMA SQL Database
+What is the most common acquisition type for artworks?,MOMA SQL Database
+Which artist has the most artworks featuring flowers?,MOMA SQL Database
+How many artworks are abstract style?,MOMA SQL Database
+What is the average acquisition year for all artworks?,MOMA SQL Database
+What is the name of the artist who created the artwork titled 'Broadway Boogie Woogie'?,MOMA SQL Database
+What year was the artwork 'Broadway Boogie Woogie' created?,MOMA SQL Database
+What is the medium used to create the artwork 'Broadway Boogie Woogie'?,MOMA SQL Database
+What is the genre of the artwork 'Broadway Boogie Woogie'?,MOMA SQL Database
+What is the nationality of the artist Piet Mondrian?,MOMA SQL Database
+How many artworks by Piet Mondrian are in the collection?,MOMA SQL Database
+What is the earliest year an artwork by Piet Mondrian in the collection was created?,MOMA SQL Database
+What is the latest year an artwork by Piet Mondrian in the collection was created?,MOMA SQL Database
+What is the title of the earliest artwork by Piet Mondrian in the collection?,MOMA SQL Database
+What is the title of the latest artwork by Piet Mondrian in the collection?,MOMA SQL Database
+How many artworks in the collection were created in the 1920s?,MOMA SQL Database
+How many artworks in the collection have painting as the medium?,MOMA SQL Database
+How many artworks in the collection are classified as cubist?,MOMA SQL Database
+How many artworks in the collection are portraits?,MOMA SQL Database
+What is the title of the earliest cubist artwork in the collection?,MOMA SQL Database
+What year was the earliest cubist artwork in the collection created?,MOMA SQL Database
+Who is the artist with the most artworks in the collection?,MOMA SQL Database
+How many artworks by that artist are in the collection?,MOMA SQL Database
+What nationality is that artist?,MOMA SQL Database
+What is the earliest year that artist has an artwork in the collection?,MOMA SQL Database
+What is the latest year that artist has an artwork in the collection?,MOMA SQL Database
+What is the title of the earliest artwork by that artist in the collection?,MOMA SQL Database
+What is the title of the latest artwork by that artist in the collection?,MOMA SQL Database
+How many artworks in the collection were acquired as gifts?,MOMA SQL Database
+How many artworks in the collection were acquired through purchases?,MOMA SQL Database
+What is the earliest year an artwork in the collection was acquired?,MOMA SQL Database
+What is the latest year an artwork in the collection was acquired?,MOMA SQL Database
+What is the title of the earliest acquired artwork in the collection?,MOMA SQL Database
+What is the title of the latest acquired artwork in the collection?,MOMA SQL Database
+How many artworks in the collection are sculptures?,MOMA SQL Database
+How many artworks in the collection are photographs?,MOMA SQL Database
+How many artworks in the collection are watercolors?,MOMA SQL Database
+How many artworks in the collection are oil paintings?,MOMA SQL Database
+What nationality has the most artists represented in the collection?,MOMA SQL Database
+How many artists of that nationality are represented?,MOMA SQL Database
+Who is the artist with the earliest birth year represented in the collection?,MOMA SQL Database
+What is that artist's birth year?,MOMA SQL Database
+Who is the artist with the latest birth year represented in the collection?,MOMA SQL Database
+What is that artist's birth year?,MOMA SQL Database
+How many artworks in the collection were created in the 19th century?,MOMA SQL Database
+How many artworks in the collection were created between 1900-1950?,MOMA SQL Database
+How many artworks in the collection were created after 1950?,MOMA SQL Database
+What is the most common medium used in the collection?,MOMA SQL Database
+How many artworks use that medium?,MOMA SQL Database
+What is the least common medium used in the collection?,MOMA SQL Database
+How many artworks use that medium?,MOMA SQL Database
+How many artworks in the collection are self-portraits?,MOMA SQL Database
+Who painted the most self-portraits in the collection?,MOMA SQL Database
+How many self-portraits did that artist contribute?,MOMA SQL Database
+What is the earliest year a self-portrait in the collection was painted?,MOMA SQL Database
+Who painted that self-portrait?,MOMA SQL Database
+What is the title of that self-portrait?,MOMA SQL Database
+How many artworks in the collection are landscapes?,MOMA SQL Database
+Who contributed the most landscape paintings to the collection?,MOMA SQL Database
+How many landscape paintings did that artist contribute?,MOMA SQL Database
+What is the earliest landscape painting in the collection?,MOMA SQL Database
+What is the title of that painting?,MOMA SQL Database
+Who is the artist that painted it?,MOMA SQL Database
+How many artworks in the collection are abstract?,MOMA SQL Database
+Who contributed the most abstract artworks to the collection?,MOMA SQL Database
+How many abstract artworks did that artist contribute?,MOMA SQL Database
+What is the earliest abstract artwork in the collection?,MOMA SQL Database
+What is the title of that abstract artwork?,MOMA SQL Database
+Who is the artist that created it?,MOMA SQL Database
+How many artworks in the collection are considered pop art?,MOMA SQL Database
+Who contributed the most pop artworks to the collection?,MOMA SQL Database
+How many pop artworks did that artist contribute?,MOMA SQL Database
+What is the earliest pop artwork in the collection?,MOMA SQL Database
+What is the title of that pop artwork?,MOMA SQL Database
+Who is the artist that created it?,MOMA SQL Database
+How many artworks in the collection are collages?,MOMA SQL Database
+Who contributed the most collages to the collection?,MOMA SQL Database
+How many collages did that artist contribute?,MOMA SQL Database
+What is the earliest collage in the collection?,MOMA SQL Database
+What is the title of that collage?,MOMA SQL Database
+Who is the artist that created it?,MOMA SQL Database
+How many artworks in the collection are assemblages?,MOMA SQL Database
+Who contributed the most assemblages to the collection?,MOMA SQL Database
+How many assemblages did that artist contribute?,MOMA SQL Database
+What is the earliest assemblage in the collection?,MOMA SQL Database
+What is the title of that assemblage?,MOMA SQL Database
+Who is the artist that created it?,MOMA SQL Database
+How many artworks in the collection utilize neon lighting?,MOMA SQL Database
+Who contributed the most neon artworks to the collection?,MOMA SQL Database
+How many neon artworks did that artist contribute?,MOMA SQL Database
+What is the earliest neon artwork in the collection?,MOMA SQL Database
+What is the title of that neon artwork?,MOMA SQL Database
+Who is the artist that created it?,MOMA SQL Database
+How many artworks in the collection are prints?,MOMA SQL Database
+Who contributed the most prints to the collection?,MOMA SQL Database
+How many prints did that artist contribute?,MOMA SQL Database
+What is the earliest print in the collection?,MOMA SQL Database
+What is the title of that print?,MOMA SQL Database
+Who is the artist that created it?,MOMA SQL Database
+How many artworks in the collection are lithographs?,MOMA SQL Database
+Who contributed the most lithographs to the collection?,MOMA SQL Database
+How many lithographs did that artist contribute?,MOMA SQL Database
+What is the earliest lithograph in the collection?,MOMA SQL Database
+What is the title of that lithograph?,MOMA SQL Database
+Who is the artist that created it?,MOMA SQL Database
+How many artworks in the collection utilize graphic design?,MOMA SQL Database
+Who contributed the most graphic design artworks to the collection?,MOMA SQL Database
+How many graphic design artworks did that artist contribute?,MOMA SQL Database
+What is the earliest graphic design artwork in the collection?,MOMA SQL Database
+What is the title of that graphic design artwork?,MOMA SQL Database
+Who is the artist that created it?,MOMA SQL Database
+What is the title of the artwork by artist Pablo Picasso?,MOMA SQL Database
+What year was the artwork Les Demoiselles d'Avignon created?,MOMA SQL Database
+What is the medium used for the artwork Campbell's Soup Cans?,MOMA SQL Database
+Who created the artwork The Starry Night?,MOMA SQL Database
+What nationality is the artist Henri Matisse?,MOMA SQL Database
+Which artist created the artwork Broadway Boogie Woogie?,MOMA SQL Database
+What was the first artwork to enter MoMA's collection?,MOMA SQL Database
+How many artworks are in the collection by Claude Monet?,MOMA SQL Database
+When was the artwork Dance (I) created?,MOMA SQL Database
+What is the date of the artwork Full Fathom Five?,MOMA SQL Database
+Who painted the artwork The Dream?,MOMA SQL Database
+What is the medium used in the artwork Broadway Boogie Woogie?,MOMA SQL Database
+Which artist has the most artworks in the MoMA collection?,MOMA SQL Database
+What is the earliest year an artwork was acquired?,MOMA SQL Database
+How many artworks were acquired in 1920?,MOMA SQL Database
+What was the last artwork to enter the collection?,MOMA SQL Database
+How many artworks are paintings?,MOMA SQL Database
+What percentage of the collection is photographs?,MOMA SQL Database
+Which artist has the most photographs in the collection?,MOMA SQL Database
+How many artworks were created in the 1950s?,MOMA SQL Database
+What is the most common nationality for artists in the collection?,MOMA SQL Database
+How many artworks are by American artists?,MOMA SQL Database
+What is the title of the oldest artwork in the collection?,MOMA SQL Database
+Which decade has the most artworks represented?,MOMA SQL Database
+What is the most common medium used by artists?,MOMA SQL Database
+How many artworks were gifted to MoMA?,MOMA SQL Database
+What was the first painting to enter the collection?,MOMA SQL Database
+Which artist has the most sculptures in the collection?,MOMA SQL Database
+What was the most recent acquisition?,MOMA SQL Database
+How many artworks were purchased by MoMA?,MOMA SQL Database
+What nationality is the artist Frida Kahlo?,MOMA SQL Database
+Who created the artwork Campbell's Soup Cans?,MOMA SQL Database
+How many artworks were created in the 1900s?,MOMA SQL Database
+What is the most common name for artists in the collection?,MOMA SQL Database
+"How many artworks have ""Still Life"" in the title?",MOMA SQL Database
+Which artist has the most photographs of flowers?,MOMA SQL Database
+What is the earliest acquisition year for a painting?,MOMA SQL Database
+How many artworks have a known creation date?,MOMA SQL Database
+What percentage of artworks are by female artists?,MOMA SQL Database
+Which artist has the most drawings in the collection?,MOMA SQL Database
+What was the first sculpture acquired?,MOMA SQL Database
+How many artworks were created in the 1920s?,MOMA SQL Database
+What is the most common color used in the artworks?,MOMA SQL Database
+How many artworks have multiple artists credited?,MOMA SQL Database
+What was the first digital artwork acquired?,MOMA SQL Database
+Which decade has the fewest artworks represented?,MOMA SQL Database
+What is the title of the largest artwork by dimensions?,MOMA SQL Database
+How many artworks were created in Spain?,MOMA SQL Database
+Which artist has the most artworks with human figures?,MOMA SQL Database
+What is the most common place of creation for the artworks?,MOMA SQL Database
+How many artworks were created in Paris?,MOMA SQL Database
+What was the first collage to enter the collection?,MOMA SQL Database
+Which artist has the most abstract paintings?,MOMA SQL Database
+How many artworks have animals as the subject?,MOMA SQL Database
+What percentage of artworks were created in the United States?,MOMA SQL Database
+How many artworks have a title related to music?,MOMA SQL Database
+Which artist has the most self-portraits?,MOMA SQL Database
+What is the most common artistic style represented?,MOMA SQL Database
+How many artworks are photographs of people?,MOMA SQL Database
+What was the first lithograph acquired?,MOMA SQL Database
+Which artist has the most artworks related to religion?,MOMA SQL Database
+How many artworks were created in Italy?,MOMA SQL Database
+What is the title of the smallest artwork by dimensions?,MOMA SQL Database
+How many artworks were created in the 1980s?,MOMA SQL Database
+What was the first watercolor acquired?,MOMA SQL Database
+Which artist has the most landscapes?,MOMA SQL Database
+What is the most common artistic medium in the collection?,MOMA SQL Database
+How many artworks were acquired in 1950?,MOMA SQL Database
+What percentage of artworks have known dimensions?,MOMA SQL Database
+Which decade has the most photographs?,MOMA SQL Database
+What was the first digital artwork acquired?,MOMA SQL Database
+How many artworks have a title related to nature?,MOMA SQL Database
+Which artist has the most abstract sculptures?,MOMA SQL Database
+What is the title of the artwork by artist Pablo Picasso?,MOMA SQL Database
+What year was the artwork Les Demoiselles d'Avignon created?,MOMA SQL Database
+What is the medium used for the artwork Campbell's Soup Cans?,MOMA SQL Database
+What nationality is the artist Frida Kahlo?,MOMA SQL Database
+How many artworks are in the sculpture medium?,MOMA SQL Database
+What is the earliest year an artwork was acquired?,MOMA SQL Database
+What is the most common nationality for artists in the collection?,MOMA SQL Database
+How many artworks were created in the 1900s?,MOMA SQL Database
+What is the most common medium used by artists?,MOMA SQL Database
+How many artworks are in the painting medium?,MOMA SQL Database
+What is the name of the artist with the most artworks?,MOMA SQL Database
+When was the museum founded?,MOMA SQL Database
+Where is the museum located?,MOMA SQL Database
+What was the first artwork acquired by the museum?,MOMA SQL Database
+Who was the first director of the museum?,MOMA SQL Database
+What is the most expensive artwork in the collection?,MOMA SQL Database
+Which artist has the most artworks on display?,MOMA SQL Database
+How many pieces are in the photography department?,MOMA SQL Database
+What is the most visited exhibition in the museum's history?,MOMA SQL Database
+How many floors are in the museum?,MOMA SQL Database
+What is the most common subject matter depicted in the collection?,MOMA SQL Database
+How many artworks were donated versus purchased?,MOMA SQL Database
+What is the largest artwork in the museum?,MOMA SQL Database
+Which artwork draws the most visitors annually?,MOMA SQL Database
+What is the most controversial piece in the museum's collection?,MOMA SQL Database
+How often does the museum change its exhibitions?,MOMA SQL Database
+What is the most popular spot for visitors to take photos?,MOMA SQL Database
+Which artwork has been part of the most exhibitions?,MOMA SQL Database
+How many impressionist works are in the collection?,MOMA SQL Database
+What percentage of the collection is made up of modern art?,MOMA SQL Database
+How many artworks were created by female artists?,MOMA SQL Database
+What is the most valuable sculpture in the museum?,MOMA SQL Database
+Which decade saw the most new acquisitions?,MOMA SQL Database
+What is the most common color used in the abstract expressionist works?,MOMA SQL Database
+How many artworks feature animals as the subject?,MOMA SQL Database
+Which artist trained at the most prestigious art academy?,MOMA SQL Database
+What is the oldest artwork on display?,MOMA SQL Database
+How many artworks feature religious themes?,MOMA SQL Database
+Which artist died at the youngest age?,MOMA SQL Database
+What is the most visited special exhibition in the museum's history?,MOMA SQL Database
+How many artworks were created in the 21st century?,MOMA SQL Database
+What percentage of the collection is made up of paintings?,MOMA SQL Database
+How many artworks feature landscapes?,MOMA SQL Database
+Which artist worked across the most media?,MOMA SQL Database
+What is the most common genre depicted in the collection?,MOMA SQL Database
+How many self-portraits are in the museum?,MOMA SQL Database
+Which artwork has been loaned out the most times?,MOMA SQL Database
+What is the most common name for artists in the collection?,MOMA SQL Database
+How many artworks feature multiple figures?,MOMA SQL Database
+What is the average size of a painting in the collection?,MOMA SQL Database
+How many artworks were gifts versus purchases?,MOMA SQL Database
+Which decade has the most artworks represented?,MOMA SQL Database
+What percentage of the collection is made up of prints?,MOMA SQL Database
+How many artworks feature abstract style?,MOMA SQL Database
+Which nationality is most represented among artists?,MOMA SQL Database
+What is the most popular subject for photographs in the collection?,MOMA SQL Database
+How many artworks are portraits?,MOMA SQL Database
+What percentage of the collection is made up of drawings?,MOMA SQL Database
+How many artworks feature urban scenes?,MOMA SQL Database
+Which artist traveled to the most countries?,MOMA SQL Database
+What is the most common color palette used in the pop art works?,MOMA SQL Database
+How many artworks feature mythical or biblical themes?,MOMA SQL Database
+Which artwork has appeared on the most exhibition posters and ads?,MOMA SQL Database
+What is the most common artistic movement represented?,MOMA SQL Database
+How many artworks were created on commission?,MOMA SQL Database
+Which time period has the fewest artworks represented?,MOMA SQL Database
+What percentage of the collection is made up of modern versus contemporary works?,MOMA SQL Database
+How many artworks feature nature scenes?,MOMA SQL Database
+Which artist worked in the most different styles?,MOMA SQL Database
+What is the most common medium used in abstract expressionist works?,MOMA SQL Database
+How many artworks feature geometric shapes?,MOMA SQL Database
+Which artist studied with the most famous teachers?,MOMA SQL Database
+What percentage of the collection is made up of sculpture?,MOMA SQL Database
+How many artworks feature domestic scenes?,MOMA SQL Database
+Which nationality has the widest range of artists represented?,MOMA SQL Database
+What is the most common support material used for paintings?,MOMA SQL Database
+How many artworks feature historical themes?,MOMA SQL Database
+Which artist traveled to the most exotic locations?,MOMA SQL Database
+What percentage of the collection is made up of works on paper?,MOMA SQL Database
+How many artworks feature multiple figures interacting?,MOMA SQL Database
+Which artist had their work shown at the most important exhibitions?,MOMA SQL Database
+What is the most common artistic movement in the post-war period?,MOMA SQL Database
+How many artworks feature still life compositions?,MOMA SQL Database
+Which artist worked in obscurity compared to fame in lifetime?,MOMA SQL Database
+What percentage of the collection is made up of photography?,MOMA SQL Database
+How many artworks feature nudes?,MOMA SQL Database
+Which artist overcame the most adversity early in career?,MOMA SQL Database
+What is the most common printmaking technique used in the collection?,MOMA SQL Database
+Can you create an image of a cat?,Image Generation
+Can you create an image of a dog?,Image Generation
+Can you create an image of a bird?,Image Generation
+Can you create an image of a fish?,Image Generation
+Can you create an image of a lion?,Image Generation
+Can you create an image of a tiger?,Image Generation
+Can you create an image of a bear?,Image Generation
+Can you create an image of a rabbit?,Image Generation
+Can you create an image of a squirrel?,Image Generation
+Can you create an image of a mouse?,Image Generation
+Can you create an image of an elephant?,Image Generation
+Can you create an image of a giraffe?,Image Generation
+Can you create an image of a zebra?,Image Generation
+Can you create an image of a monkey?,Image Generation
+Can you create an image of a gorilla?,Image Generation
+Can you create an image of a hippo?,Image Generation
+Can you create an image of a rhino?,Image Generation
+Can you create an image of a cow?,Image Generation
+Can you create an image of a pig?,Image Generation
+Can you create an image of a sheep?,Image Generation
+Can you create an image of a goat?,Image Generation
+Can you create an image of a horse?,Image Generation
+Can you create an image of a donkey?,Image Generation
+Can you create an image of a camel?,Image Generation
+Can you create an image of a deer?,Image Generation
+Can you create an image of an antelope?,Image Generation
+Can you create an image of a fox?,Image Generation
+Can you create an image of a wolf?,Image Generation
+Can you create an image of a polar bear?,Image Generation
+Can you create an image of a penguin?,Image Generation
+Can you create an image of an ostrich?,Image Generation
+Can you create an image of an eagle?,Image Generation
+Can you create an image of an owl?,Image Generation
+Can you create an image of a parrot?,Image Generation
+Can you create an image of a peacock?,Image Generation
+Can you create an image of a swan?,Image Generation
+Can you create an image of a duck?,Image Generation
+Can you create an image of a chicken?,Image Generation
+Can you create an image of a rooster?,Image Generation
+Can you create an image of a turkey?,Image Generation
+Can you create an image of a butterfly?,Image Generation
+Can you create an image of a dragonfly?,Image Generation
+Can you create an image of a bee?,Image Generation
+Can you create an image of an ant?,Image Generation
+Can you create an image of a spider?,Image Generation
+Can you create an image of a scorpion?,Image Generation
+Can you create an image of a snake?,Image Generation
+Can you create an image of a lizard?,Image Generation
+Can you create an image of a frog?,Image Generation
+Can you create an image of a turtle?,Image Generation
+Can you create an image of a whale?,Image Generation
+Can you create an image of a shark?,Image Generation
+Can you create an image of a goldfish?,Image Generation
+Can you create an image of a seahorse?,Image Generation
+Can you create an image of a starfish?,Image Generation
+Can you create an image of a crab?,Image Generation
+Can you create an image of an octopus?,Image Generation
+Can you create an image of a clam?,Image Generation
+Can you create an image of a lobster?,Image Generation
+Can you create an image of a squid?,Image Generation
+Can you create an image of a jellyfish?,Image Generation
+Can you create an image of a coral reef?,Image Generation
+Can you create an image of a beach?,Image Generation
+Can you create an image of an ocean?,Image Generation
+Can you create an image of a forest?,Image Generation
+Can you create an image of a jungle?,Image Generation
+Can you create an image of a desert?,Image Generation
+Can you create an image of a glacier?,Image Generation
+Can you create an image of a volcano?,Image Generation
+Can you create an image of a mountain?,Image Generation
+Can you create an image of a canyon?,Image Generation
+Can you create an image of a river?,Image Generation
+Can you create an image of a lake?,Image Generation
+Can you create an image of a waterfall?,Image Generation
+Can you create an image of a rainbow?,Image Generation
+Can you create an image of a field of flowers?,Image Generation
+Can you create an image of a rose?,Image Generation
+Can you create an image of a daisy?,Image Generation
+Can you create an image of a tulip?,Image Generation
+Can you create an image of a sunflower?,Image Generation
+Can you create an image of a cactus?,Image Generation
+Can you create an image of a tree?,Image Generation
+Can you create an image of a pine tree?,Image Generation
+Can you create an image of an oak tree?,Image Generation
+Can you create an image of a maple tree?,Image Generation
+Can you create an image of a palm tree?,Image Generation
+Can you create an image of a bush?,Image Generation
+Can you create an image of a blade of grass?,Image Generation
+Can you create an image of a vine?,Image Generation
+Can you create an image of a mushroom?,Image Generation
+Can you create an image of a pine cone?,Image Generation
+Can you create an image of an acorn?,Image Generation
+Can you create an image of a strawberry?,Image Generation
+Can you create an image of an apple?,Image Generation
+Can you create an image of an orange?,Image Generation
+Can you create an image of a lemon?,Image Generation
+Can you create an image of a banana?,Image Generation
+Can you create an image of a watermelon?,Image Generation
+Can you create an image of a mango?,Image Generation
+Can you create an image of a pineapple?,Image Generation
+Can you create an image of a coconut?,Image Generation
+Can you create an image of a carrot?,Image Generation
+Can you create an image of a potato?,Image Generation
+Can you create an image of an onion?,Image Generation
+Can you create an image of a pumpkin?,Image Generation
+Can you create an image of an eggplant?,Image Generation
+Can you create an image of a tomato?,Image Generation
+Can you create an image of a pea pod?,Image Generation
+Can you create an image of a corn stalk?,Image Generation
+Can you create an image of a wheat field?,Image Generation
+Can you create an image of a farm?,Image Generation
+Can you create an image of a barn?,Image Generation
+Can you create an image of a windmill?,Image Generation
+Can you create an image of a tractor?,Image Generation
+Can you create an image of a city skyline?,Image Generation
+Can you create an image of a skyscraper?,Image Generation
+Can you create an image of an apartment building?,Image Generation
+Can you create an image of a house?,Image Generation
+Can you create an image of a school?,Image Generation
+Can you create an image of a hospital?,Image Generation
+Can you create an image of a church?,Image Generation
+Can you create an image of a mosque?,Image Generation
+Can you create an image of a temple?,Image Generation
+Can you create an image of a pagoda?,Image Generation
+Can you create an image of the Eiffel Tower?,Image Generation
+Can you create an image of the Statue of Liberty?,Image Generation
+Can you create an image of the Pyramids of Giza?,Image Generation
+Can you create an image of the Colosseum?,Image Generation
+Can you create an image of the Taj Mahal?,Image Generation
+Can you create an image of the Great Wall of China?,Image Generation
+Can you create an image of Machu Picchu?,Image Generation
+Can you create an image of the Leaning Tower of Pisa?,Image Generation
+Can you create an image of the Sydney Opera House?,Image Generation
+Can you create an image of the Golden Gate Bridge?,Image Generation
+Can you create an image of the London Eye?,Image Generation
+Can you create an image of Big Ben?,Image Generation
+Can you create an image of the Empire State Building?,Image Generation
+Can you create an image of the Louvre museum?,Image Generation
+Can you create an image of the Kremlin?,Image Generation
+Can you create an image of the Forbidden City?,Image Generation
+Can you create an image of the Parthenon?,Image Generation
+Can you create an image of the Acropolis?,Image Generation
+Can you create an image of the Roman Colosseum?,Image Generation
+Can you create an image of the Pantheon?,Image Generation
+Can you create an image of the Vatican?,Image Generation
+Can you create an image of Versailles?,Image Generation
+Can you create an image of Neuschwanstein Castle?,Image Generation
+Can you create an image of a medieval castle?,Image Generation
+Can you create an image of a gothic cathedral?,Image Generation
+Can you create an image of Stonehenge?,Image Generation
+Can you create an image of Easter Island statues?,Image Generation
+Can you create an image of the Terracotta Army?,Image Generation
+Can you create an image of Petra in Jordan?,Image Generation
+Can you create an image of Chichen Itza?,Image Generation
+Can you create an image of Christ the Redeemer statue?,Image Generation
+Can you create an image of the Hollywood sign?,Image Generation
+Can you create an image of the Las Vegas strip?,Image Generation
+Can you create an image of Times Square?,Image Generation
+Can you create an image of the Golden Gate Bridge?,Image Generation
+Can you create an image of the Brooklyn Bridge?,Image Generation
+Can you create an image of the London Bridge?,Image Generation
+Can you create an image of Big Ben?,Image Generation
+Can you create an image of the Eiffel Tower?,Image Generation
+Can you create an image of the Leaning Tower of Pisa?,Image Generation
+Can you create an image of the Colosseum?,Image Generation
+Can you create an image of the Parthenon?,Image Generation
+Can you create an image of the Pyramids of Giza?,Image Generation
+Can you create an image of the Great Wall of China?,Image Generation
+Can you create an image of the Taj Mahal?,Image Generation
+Can you create an image of Machu Picchu?,Image Generation
+Can you create an image of Christ the Redeemer statue?,Image Generation
+Can you create an image of Mount Rushmore?,Image Generation
+Can you create an image of the Statue of Liberty?,Image Generation
+Can you create an image of the Sydney Opera House?,Image Generation
+Can you create an image of the Forbidden City?,Image Generation
+Can you create an image of Angkor Wat?,Image Generation
+Can you create an image of the Kremlin?,Image Generation
+Can you create an image of St. Basil's Cathedral?,Image Generation
+Can you create an image of the Louvre museum?,Image Generation
+Can you create an image of Versailles?,Image Generation
+Can you create an image of Neuschwanstein Castle?,Image Generation
+Can you create an image of the Acropolis?,Image Generation
+Can you create an image of Stonehenge?,Image Generation
+Can you create an image of Easter Island statues?,Image Generation
+Can you create an image of Petra in Jordan?,Image Generation
+Can you create an image of the Roman Forum?,Image Generation
+Can you create an image of the Pantheon in Rome?,Image Generation
+Can you create an image of the Alhambra in Spain?,Image Generation
+Can you create an image of Chichen Itza?,Image Generation
+Can you create an image of Teotihuacan?,Image Generation
+Can you create an image of the Terracotta Army?,Image Generation
+Can you create an image of Borobudur temple?,Image Generation
+Can you create an image of the Vatican?,Image Generation
+Can you create an image of St. Peter's Basilica?,Image Generation
+Can you create an image of the Sistine Chapel?,Image Generation
+Can you create an image of the Sagrada Familia?,Image Generation
+Can you create an image of the Burj Khalifa?,Image Generation
+Can you create an image of the Shanghai Tower?,Image Generation
+Can you create an image of the Petronas Towers?,Image Generation
+Can you create an image of the CN Tower?,Image Generation
+Can you create an image of the Space Needle?,Image Generation
+Can you create an image of the Gateway Arch?,Image Generation
+Can you create an image of the Willis Tower?,Image Generation
+Can you create an image of the Empire State Building?,Image Generation
+Can you create an image of the Chrysler Building?,Image Generation
+Can you create an image of the One World Trade Center?,Image Generation
+Can you create an image of the Shwedagon Pagoda?,Image Generation
+Can you create an image of the Blue Mosque?,Image Generation
+Can you create an image of Hagia Sophia?,Image Generation
+Can you create an image of St. Basil's Cathedral?,Image Generation
+Can you create an image of the Dome of the Rock?,Image Generation
+Can you create an image of the Western Wall?,Image Generation
+Can you create an image of the Kaaba?,Image Generation
+Can you create an image of Angkor Wat?,Image Generation
+Can you create an image of the Lotus Temple?,Image Generation
+Can you create an image of the Golden Temple?,Image Generation
+Can you create an image of the Amber Fort?,Image Generation
+Can you create an image of the Forbidden City?,Image Generation
+Can you create an image of the Great Buddha of Kamakura?,Image Generation
+Can you create an image of Kinkaku-ji temple?,Image Generation
+Can you create an image of Fushimi Inari Shrine?,Image Generation
+Can you create an image of Meiji Shrine?,Image Generation
+Can you create an image of Todai-ji temple?,Image Generation
+Can you create an image of Itsukushima Shrine?,Image Generation
+Can you create an image of Kiyomizu-dera temple?,Image Generation
+"Can you create an image of Byodo-in temple?,",Image Generation
+Can you create an image of a cat?,Image Generation
+Can you draw a picture of a dog?,Image Generation
+Can you make an illustration of a flower?,Image Generation
+Can you generate an image of a tree?,Image Generation
+Can you produce a photo of a car?,Image Generation
+Can you construct a graphic of a house?,Image Generation
+Can you build an image of a bridge?,Image Generation
+Can you form a portrait of a person?,Image Generation
+Can you shape a scene of a city?,Image Generation
+Can you imagine a landscape of mountains?,Image Generation
+Can you envision a seascape with waves?,Image Generation
+Can you depict a still life with fruit?,Image Generation
+Can you portray a bowl of apples?,Image Generation
+Can you represent a vase of flowers?,Image Generation
+Can you paint a picture of a lake?,Image Generation
+Can you sketch a desert scene?,Image Generation
+Can you outline a forest landscape?,Image Generation
+Can you draft an image of outer space?,Image Generation
+Can you compose a scene with animals?,Image Generation
+Can you devise a fantasy creature?,Image Generation
+Can you invent an abstract pattern?,Image Generation
+Can you conceive a surreal dreamscape?,Image Generation
+Can you conjure up an underwater world?,Image Generation
+Can you visualize a mythical land?,Image Generation
+Can you render a robot?,Image Generation
+Can you illustrate a fairy tale scene?,Image Generation
+Can you generate a superhero character?,Image Generation
+Can you produce a cartoon animal?,Image Generation
+Can you construct a vehicle?,Image Generation
+Can you build an architectural structure?,Image Generation
+Can you form a natural landscape?,Image Generation
+Can you shape a portrait in oil?,Image Generation
+Can you imagine a seascape in watercolor?,Image Generation
+Can you envision a cityscape in acrylic?,Image Generation
+Can you depict a still life with pastels?,Image Generation
+Can you portray a bowl of fruit in colored pencil?,Image Generation
+Can you represent dancers with charcoal?,Image Generation
+Can you paint a portrait in expressionistic style?,Image Generation
+Can you sketch figures in impressionistic style?,Image Generation
+Can you outline a landscape in cubist style?,Image Generation
+Can you draft an abstract in modernist style?,Image Generation
+Can you compose a scene in pop art style?,Image Generation
+Can you devise a character in anime style?,Image Generation
+Can you invent a pattern in art nouveau style?,Image Generation
+Can you conceive a dreamscape in surrealist style?,Image Generation
+Can you conjure up an underwater scene in realist style?,Image Generation
+Can you visualize an alien world in futurist style?,Image Generation
+Can you render a creature in fantasy style?,Image Generation
+Can you illustrate a fairy tale in folk art style?,Image Generation
+Can you generate a comic scene in cartoon style?,Image Generation
+Can you produce a funny animal in caricature style?,Image Generation
+Can you construct a vehicle in retro style?,Image Generation
+Can you build a cityscape in minimalist style?,Image Generation
+Can you form figures in classical style?,Image Generation
+Can you shape a still life with dramatic lighting?,Image Generation
+Can you imagine a landscape with soft lighting?,Image Generation
+Can you envision a portrait with warm lighting?,Image Generation
+Can you depict a scene with cool lighting?,Image Generation
+Can you portray an object with side lighting?,Image Generation
+Can you represent a subject with backlighting?,Image Generation
+Can you paint a picture with chiaroscuro?,Image Generation
+Can you sketch a monochromatic scene?,Image Generation
+Can you outline figures with crosshatching?,Image Generation
+Can you draft a pattern with intricate details?,Image Generation
+Can you compose an image with bold colors?,Image Generation
+Can you devise a whimsical character?,Image Generation
+Can you invent an abstract composition?,Image Generation
+Can you conceive a surreal landscape?,Image Generation
+Can you conjure up a fantasy creature?,Image Generation
+Can you visualize a science fiction scene?,Image Generation
+Can you render an imaginative world?,Image Generation
+Can you illustrate a storybook character?,Image Generation
+Can you generate a mythical being?,Image Generation
+Can you produce a colorful animation?,Image Generation
+Can you construct a detailed vehicle?,Image Generation
+Can you build an architectural interior?,Image Generation
+Can you form a natural object?,Image Generation
+Can you shape a portrait with a unique perspective?,Image Generation
+Can you imagine a cityscape with depth?,Image Generation
+Can you envision a landscape with texture?,Image Generation
+Can you depict a still life with interesting objects?,Image Generation
+Can you portray people with action and motion?,Image Generation
+Can you represent a place with vivid details?,Image Generation
+Can you paint a seascape with crashing waves?,Image Generation
+Can you sketch trees with intricate branches?,Image Generation
+Can you outline flowers with delicate petals?,Image Generation
+Can you draft animals with lifelike fur?,Image Generation
+Can you compose a scene with accurate anatomy?,Image Generation
+Can you devise an original character?,Image Generation
+Can you invent a pattern with rhythm?,Image Generation
+Can you conceive a setting with mood?,Image Generation
+Can you conjure up a fantasy world?,Image Generation
+Can you visualize the future?,Image Generation
+Can you render the past?,Image Generation
+Can you illustrate a story?,Image Generation
+Can you generate something imaginative?,Image Generation
+Can you produce something inspiring?,Image Generation
+Can you construct something innovative?,Image Generation
+Can you build something visionary?,Image Generation
+Can you form something creative?,Image Generation
+Can you shape something inventive?,Image Generation
+Can you imagine something original?,Image Generation
+Can you envision something groundbreaking?,Image Generation
+Can you depict something novel?,Image Generation
+Can you portray something unconventional?,Image Generation
+Can you represent something avant-garde?,Image Generation
+Can you paint something unique?,Image Generation
+Can you sketch something extraordinary?,Image Generation
+Can you outline something singular?,Image Generation
+Can you draft something exceptional?,Image Generation
+Can you compose something cutting-edge?,Image Generation
+Can you devise something radical?,Image Generation
+Can you invent something revolutionary?,Image Generation
+Can you conceive something trailblazing?,Image Generation
+Can you conjure up something pioneering?,Image Generation
+Can you visualize something modern?,Image Generation
+Can you render something futuristic?,Image Generation
+Can you illustrate something advanced?,Image Generation
+Can you generate something progressive?,Image Generation
+Can you produce something ingenious?,Image Generation
+Can you construct something clever?,Image Generation
+Can you build something resourceful?,Image Generation
+Can you form something inspired?,Image Generation
+Can you shape something innovative?,Image Generation
+Can you imagine something visionary?,Image Generation
+Can you envision something inventive?,Image Generation
+Can you depict something original?,Image Generation
+Can you portray something creative?,Image Generation
+Can you represent something imaginative?,Image Generation
+Can you paint something groundbreaking?,Image Generation
+Can you sketch something novel?,Image Generation
+Can you outline something unconventional?,Image Generation
+Can you draft something avant-garde?,Image Generation
+Can you compose something unique?,Image Generation
+Can you devise something extraordinary?,Image Generation
+Can you invent something singular?,Image Generation
+Can you conceive something exceptional?,Image Generation
+Can you conjure up something cutting-edge?,Image Generation
+Can you visualize something radical?,Image Generation
+Can you render something revolutionary?,Image Generation
+Can you illustrate something trailblazing?,Image Generation
+Can you generate something pioneering?,Image Generation
+Can you produce something modern?,Image Generation
+Can you construct something futuristic?,Image Generation
+Can you build something advanced?,Image Generation
+Can you form something progressive?,Image Generation
+Can you shape something ingenious?,Image Generation
+Can you imagine something clever?,Image Generation
+Can you envision something resourceful?,Image Generation
+Can you create an image of a cat?,Image Generation
+Can you draw a picture of a dog?,Image Generation
+Can you make an illustration of a flower?,Image Generation
+Can you generate an image of a tree?,Image Generation
+Can you produce a photo of a car?,Image Generation
+Can you construct a graphic of a house?,Image Generation
+Can you build an image of a bridge?,Image Generation
+Can you form a portrait of a person?,Image Generation
+Can you shape a scene of a city?,Image Generation
+Can you imagine a landscape of mountains?,Image Generation
+Can you envision a seascape with waves?,Image Generation
+Can you conjure an image of a sunset?,Image Generation
+Can you devise a depiction of a rainbow?,Image Generation
+Can you invent a representation of a galaxy?,Image Generation
+Can you originate a visualization of a nebula?,Image Generation
+Can you design an interpretation of a storm?,Image Generation
+Can you compose a rendering of a desert?,Image Generation
+Can you create a moonscape?,Image Generation
+Can you make a spacescape?,Image Generation
+Can you illustrate outer space?,Image Generation
+Can you generate an alien world?,Image Generation
+Can you produce a fantasy realm?,Image Generation
+Can you construct a magical forest?,Image Generation
+Can you build a mythical creature?,Image Generation
+Can you form a dragon?,Image Generation
+Can you shape a wizard?,Image Generation
+Can you imagine a castle?,Image Generation
+Can you envision an underwater scene?,Image Generation
+Can you conjure up an ocean view?,Image Generation
+Can you devise a beach landscape?,Image Generation
+Can you invent a tropical island?,Image Generation
+Can you originate a polar region?,Image Generation
+Can you design an arctic scene?,Image Generation
+Can you compose a rainforest vista?,Image Generation
+Can you create a savanna landscape?,Image Generation
+Can you make a swamp scene?,Image Generation
+Can you illustrate a volcano?,Image Generation
+Can you generate an erupting volcano?,Image Generation
+Can you produce a mountain range?,Image Generation
+Can you construct a canyon view?,Image Generation
+Can you build a river valley?,Image Generation
+Can you form a waterfall scene?,Image Generation
+Can you shape a lake image?,Image Generation
+Can you imagine a village?,Image Generation
+Can you envision a cityscape?,Image Generation
+Can you conjure up a busy street?,Image Generation
+Can you devise a park setting?,Image Generation
+Can you invent a garden landscape?,Image Generation
+Can you originate a floral arrangement?,Image Generation
+Can you design a fruit still life?,Image Generation
+Can you compose a food scene?,Image Generation
+Can you create a feast image?,Image Generation
+Can you make a banquet picture?,Image Generation
+Can you illustrate a cake?,Image Generation
+Can you generate an ice cream sundae?,Image Generation
+Can you produce a pizza image?,Image Generation
+Can you construct a hamburger graphic?,Image Generation
+Can you build a hot dog picture?,Image Generation
+Can you form an image of pasta?,Image Generation
+Can you shape a bowl of cereal?,Image Generation
+Can you imagine a stack of pancakes?,Image Generation
+Can you envision an omelette?,Image Generation
+Can you conjure up an image of sushi?,Image Generation
+Can you devise a taco picture?,Image Generation
+Can you invent a burrito image?,Image Generation
+Can you originate a curry dish?,Image Generation
+Can you design a plate of noodles?,Image Generation
+Can you compose a bowl of soup?,Image Generation
+Can you create a glass of juice?,Image Generation
+Can you make a cup of coffee?,Image Generation
+Can you illustrate a mug of hot chocolate?,Image Generation
+Can you generate a milkshake graphic?,Image Generation
+Can you produce a soda image?,Image Generation
+Can you construct a cocktail picture?,Image Generation
+Can you build beer graphic?,Image Generation
+Can you form a wine bottle image?,Image Generation
+Can you shape a landscape of vineyards?,Image Generation
+Can you imagine an orchard scene?,Image Generation
+Can you envision a corn field?,Image Generation
+Can you conjure up a barnyard scene?,Image Generation
+Can you devise a sty with pigs?,Image Generation
+Can you invent a chicken coop?,Image Generation
+Can you originate a cattle ranch?,Image Generation
+Can you design a horse stable?,Image Generation
+Can you compose a pet portrait?,Image Generation
+Can you create an image of a kitten?,Image Generation
+Can you make an illustration of a puppy?,Image Generation
+Can you illustrate a bunny?,Image Generation
+Can you generate a hamster graphic?,Image Generation
+Can you produce a fish picture?,Image Generation
+Can you construct a bird image?,Image Generation
+Can you build a portrait of an insect?,Image Generation
+Can you form a scene with butterflies?,Image Generation
+Can you shape a spiderweb graphic?,Image Generation
+Can you imagine a lion?,Image Generation
+Can you envision a zebra?,Image Generation
+Can you conjure up an elephant?,Image Generation
+Can you devise a giraffe portrait?,Image Generation
+Can you invent a rhino scene?,Image Generation
+Can you originate a jungle landscape?,Image Generation
+Can you design a safari scene?,Image Generation
+Can you compose an arctic animal?,Image Generation
+Can you create a polar bear?,Image Generation
+Can you make a penguin graphic?,Image Generation
+Can you illustrate a whale breaching?,Image Generation
+Can you generate a dolphin jumping?,Image Generation
+Can you produce an image of the solar system?,Image Generation
+Can you construct a spaceship graphic?,Image Generation
+Can you build a rocket scene?,Image Generation
+Can you form a galaxy portrait?,Image Generation
+Can you shape an astronaut image?,Image Generation
+Can you imagine an alien portrait?,Image Generation
+Can you envision a UFO?,Image Generation
+Can you conjure up a supernova?,Image Generation
+Can you devise a black hole graphic?,Image Generation
+Can you invent a nebula scene?,Image Generation
+Can you originate a star cluster?,Image Generation
+Can you design a planetscape?,Image Generation
+Can you compose a moon surface?,Image Generation
