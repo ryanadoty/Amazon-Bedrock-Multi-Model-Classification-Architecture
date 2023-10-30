@@ -1,10 +1,10 @@
 import streamlit as st
 import pickle
-from kendra_bedrock_query import kendraSearch
-from query_against_openSearch import opensearch_query
-from snowflake_bedrock_query import snowflake_answer
+from micro_services.kendra_bedrock_query import kendraSearch
+from micro_services.query_against_openSearch import opensearch_query
+from micro_services.snowflake_bedrock_query import snowflake_answer
 from PIL import Image
-from image_generation import image_generator
+from micro_services.image_generation import image_generator
 # loading in the classification model we created
 model = pickle.load(open('model/model.pkl', 'rb'))
 # loading the vectorizer we created
